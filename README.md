@@ -1,4 +1,4 @@
-# hey, i'm andy (b1rdmania)
+# b1rdmania
 
 I build internet-native products across DeFi, AI, and music tooling.
 
