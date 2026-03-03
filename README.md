@@ -1,6 +1,6 @@
 # b1rdmania
 
-I build internet-native products across DeFi, AI agents, and music.
+I build internet-native products across DeFi, AI agents, and music. Most of this is built with Claude Code.
 
 ## Start Here
 
@@ -24,7 +24,7 @@ I build internet-native products across DeFi, AI agents, and music.
 - [claude-lottie-skill](https://github.com/b1rdmania/claude-lottie-skill) — search LottieFiles + Rive Marketplace, embed brand-coherent animations.
 - [geocities-skill](https://github.com/b1rdmania/geocities-skill) — generates authentically terrible 1998-era Geocities personal websites.
 - [hinge-profile-optimizer](https://github.com/b1rdmania/hinge-profile-optimizer) — research-backed dating profile optimization from 45+ peer-reviewed sources.
-- [awesome-claude-skills](https://github.com/b1rdmania/awesome-claude-skills) — curated list of Claude Skills, resources, and tools.
+
 
 ## DeFi / Trading
 
@@ -37,6 +37,7 @@ I build internet-native products across DeFi, AI agents, and music.
 
 ## Audio / Music
 
+- [dig](https://github.com/b1rdmania/dig) · [Live](https://dig-baby-mvp.vercel.app) — music data layer built on the Discogs CC0 catalog. REST API + MCP for agents, search UI for humans.
 - [Wario Style](https://github.com/b1rdmania/motif) · [Live](https://www.wario.style) — search any song, get the 8-bit Game Boy version.
 - [soundmatch-audio-finder](https://github.com/b1rdmania/soundmatch-audio-finder) · [Live](https://soundmatch-audio-finder.vercel.app) — royalty-free music discovery via search, MP3 upload, and link analysis.
 - [soundrights](https://github.com/b1rdmania/soundrights) — on-chain music IP registration and licensing via Story Protocol.
