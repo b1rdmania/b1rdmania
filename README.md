@@ -1,46 +1,62 @@
 # b1rdmania
 
-I build internet-native products across DeFi, AI, and music tooling.
-
-🏆 WarGames / WAR.MARKET won the HyperLiquid London Community Hackathon (Jan 2026).  
-🏆 SoundMatch AI is a hackathon-winning audio discovery project.
+I build internet-native products across DeFi, AI agents, and music. Most of this is built with Claude Code.
 
 ## Start Here
 
-- [WarGames / WAR.MARKET](https://github.com/b1rdmania/WarGames) · [Live](https://www.war.market)
-- [launch-layer](https://github.com/b1rdmania/launch-layer) · [Live](https://launchlayer.io)
-- [sorted-fund](https://github.com/b1rdmania/sorted-fund) · [Demo](https://sorted.fund/demo.html)
-- [motif (Wario Style)](https://github.com/b1rdmania/motif) · [Live](https://www.wario.style)
+- [GhostClaw](https://github.com/b1rdmania/ghostclaw) — personal AI agent on bare metal. Telegram-first, Claude Agent SDK.
+- [Dig](https://github.com/b1rdmania/dig) · [Live](https://dig-baby-mvp.vercel.app) — music data layer built on the Discogs CC0 catalog. REST API + MCP for agents, search UI for humans.
+- [WarGames / WAR.MARKET](https://github.com/b1rdmania/WarGames) · [Live](https://www.war.market) — trade geopolitical narratives, not tickers.
+- [Visible (brand-audit)](https://github.com/b1rdmania/brand-audit) · [Live](https://brand-audits.vercel.app) — audit your business's online presence for AI readiness.
+- [Wario Style](https://github.com/b1rdmania/motif) · [Live](https://www.wario.style) — browser-based Game Boy MIDI synthesis engine.
+
+## AI Agents & Tools
+
+- [ghostclaw](https://github.com/b1rdmania/ghostclaw) — always-on AI co-worker. Telegram, WhatsApp, email, scheduled tasks. No containers, bare metal.
+- [dig](https://github.com/b1rdmania/dig) · [Live](https://dig-baby-mvp.vercel.app) — Discogs-powered music search. MCP server for agents, Fastify API, Next.js frontend. Fly.io.
+- [brand-audit](https://github.com/b1rdmania/brand-audit) · [Live](https://brand-audits.vercel.app) — automated brand audits with scored reports and prioritised actions.
+- [polymarket-ai-trading](https://github.com/b1rdmania/polymarket-ai-trading) · [Live](https://polymarket-trading-dashboard.vercel.app) — AI mean-reversion research bot for prediction markets.
+- [epubkit](https://github.com/b1rdmania/epubkit) — web-based EPUB optimizer for e-ink readers. Converts images, strips fonts, cleans CSS in one pass.
+
+## Claude Skills
+
+- [claude-brand-skills](https://github.com/b1rdmania/claude-brand-skills) — full brand identity kit. Escapes the convergence problem where LLMs generate the average.
+- [claude-lottie-skill](https://github.com/b1rdmania/claude-lottie-skill) — search LottieFiles + Rive Marketplace, embed brand-coherent animations.
+- [geocities-skill](https://github.com/b1rdmania/geocities-skill) — generates authentically terrible 1998-era Geocities personal websites.
+- [hinge-profile-optimizer](https://github.com/b1rdmania/hinge-profile-optimizer) — research-backed dating profile optimization from 45+ peer-reviewed sources.
+- [awesome-claude-skills](https://github.com/b1rdmania/awesome-claude-skills) — curated list of Claude Skills, resources, and tools.
 
 ## DeFi / Trading
 
-- [launch-layer](https://github.com/b1rdmania/launch-layer) — permissionless launchpad for serious DeFi builders.
-- [sorted-fund](https://github.com/b1rdmania/sorted-fund) — gasless transaction infrastructure for Web3 games (ERC-4337 paymaster flow).
-- [compost](https://github.com/b1rdmania/compost) — capital formation layer for Hyperliquid builder markets.
-- [polymarket-ai-trading](https://github.com/b1rdmania/polymarket-ai-trading) — AI-assisted mean-reversion research bot (paper trading).
-- [canton-prediction-markets](https://github.com/b1rdmania/canton-prediction-markets) — AI-assisted prediction market trading protocol on Canton.
-- [jank-derby](https://github.com/b1rdmania/jank-derby) — provably fair horse-racing market game with commit-reveal RNG.
-- [vs-token-mvp](https://github.com/b1rdmania/vs-token-mvp) — Sonic vesting-NFT liquidity protocol (shipped, paused).
+- [launch-layer](https://github.com/b1rdmania/launch-layer) · [Live](https://launchlayer.io) — permissionless launchpad for DeFi builders.
+- [compost](https://github.com/b1rdmania/compost) · [Live](https://compost.fi) — capital formation layer for Hyperliquid builder markets.
+- [canton-prediction-markets](https://github.com/b1rdmania/canton-prediction-markets) — AI-assisted prediction market trading on Canton.
+- [jank-derby](https://github.com/b1rdmania/jank-derby) · [Live](https://jank-derby.vercel.app) — provably fair horse-racing market game with commit-reveal RNG.
+- [sorted-fund](https://github.com/b1rdmania/sorted-fund) · [Demo](https://sorted.fund/demo.html) — gasless transaction infrastructure (ERC-4337).
 
 ## Audio / Music
 
-- [soundmatch-audio-finder](https://github.com/b1rdmania/soundmatch-audio-finder) — royalty-free music discovery via search, MP3 upload, and link analysis.
-- [motif (Wario Style)](https://github.com/b1rdmania/motif) — browser-based Game Boy MIDI synthesis engine.
-- [soundrights](https://github.com/b1rdmania/soundrights) — on-chain music IP registration/licensing explorations.
+- [Wario Style](https://github.com/b1rdmania/motif) · [Live](https://www.wario.style) — search any song, get the 8-bit Game Boy version.
+- [soundmatch-audio-finder](https://github.com/b1rdmania/soundmatch-audio-finder) · [Live](https://soundmatch-audio-finder.vercel.app) — royalty-free music discovery via search, MP3 upload, and link analysis.
+- [soundrights](https://github.com/b1rdmania/soundrights) — on-chain music IP registration and licensing via Story Protocol.
 
-## Fun / Experiments
+## London
 
-- [hinge-profile-optimizer](https://github.com/b1rdmania/hinge-profile-optimizer) — Claude Code skill for research-backed dating profile optimization.
-- [ai-spurs-manager-eval](https://github.com/b1rdmania/ai-spurs-manager-eval) — data-driven Tottenham manager assessment.
-- [london-cinema-listings](https://github.com/b1rdmania/london-cinema-listings) — London indie cinema listings aggregator + scraper.
+- [london-cinema-listings](https://github.com/b1rdmania/london-cinema-listings) · [Live](https://london-cinema-listings.vercel.app) — indie cinema listings aggregator + scraper.
+- [london-culture](https://github.com/b1rdmania/london-culture) · [Live](https://b1rdmania.github.io/london-culture/) — weekly digest of social creative events. Talks, openings, workshops.
+
+## Fun
+
+- [ai-spurs-manager-eval](https://github.com/b1rdmania/ai-spurs-manager-eval) — data-driven Tottenham manager assessment. The pain is quantified.
+- [claude-remote](https://github.com/b1rdmania/claude-remote) — remote enter button from phone because I can't be arsed to lean forward.
 
 ## Currently Building
 
-- `launch-layer`
-- `sorted-fund`
-- `compost`
+- `ghostclaw`
+- `dig`
+- `brand-audit` (Visible)
 
-_Last updated: Feb 2026_
+_Last updated: Mar 2026_
 
 ## Connect
 
