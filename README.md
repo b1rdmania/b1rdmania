@@ -6,7 +6,7 @@ I build internet-native products across DeFi, AI agents, and music. Most of this
 
 - [GhostClaw](https://github.com/b1rdmania/ghostclaw) — personal AI agent on bare metal. Telegram-first, Claude Agent SDK.
 - [Dig](https://github.com/b1rdmania/dig) · [Live](https://dig-baby-mvp.vercel.app) — music data layer built on the Discogs CC0 catalog. REST API + MCP for agents, search UI for humans.
-- [WarGames / WAR.MARKET](https://github.com/b1rdmania/WarGames) · [Live](https://www.war.market) — trade geopolitical narratives, not tickers.
+- [WarGames / WAR.MARKET](https://github.com/b1rdmania/WarGames) · [Live](https://www.war.market) — trade geopolitical narratives, not tickers. Won the HyperLiquid London Hackathon.
 - [Visible (brand-audit)](https://github.com/b1rdmania/brand-audit) · [Live](https://brand-audits.vercel.app) — audit your business's online presence for AI readiness.
 - [Wario Style](https://github.com/b1rdmania/motif) · [Live](https://www.wario.style) — browser-based Game Boy MIDI synthesis engine.
 
@@ -28,11 +28,12 @@ I build internet-native products across DeFi, AI agents, and music. Most of this
 
 ## DeFi / Trading
 
-- [launch-layer](https://github.com/b1rdmania/launch-layer) · [Live](https://launchlayer.io) — permissionless launchpad for DeFi builders.
-- [compost](https://github.com/b1rdmania/compost) · [Live](https://compost.fi) — capital formation layer for Hyperliquid builder markets.
+- [WarGames / WAR.MARKET](https://github.com/b1rdmania/WarGames) · [Live](https://www.war.market) — trade geopolitical narratives, not tickers. Won the HyperLiquid London Hackathon.
+- [compost](https://github.com/b1rdmania/compost) — capital formation layer for Hyperliquid builder markets. Concept.
 - [canton-prediction-markets](https://github.com/b1rdmania/canton-prediction-markets) — AI-assisted prediction market trading on Canton.
 - [jank-derby](https://github.com/b1rdmania/jank-derby) · [Live](https://jank-derby.vercel.app) — provably fair horse-racing market game with commit-reveal RNG.
 - [sorted-fund](https://github.com/b1rdmania/sorted-fund) · [Demo](https://sorted.fund/demo.html) — gasless transaction infrastructure (ERC-4337).
+- [launch-layer](https://github.com/b1rdmania/launch-layer) — permissionless launchpad for DeFi builders. Paused.
 
 ## Audio / Music
 
