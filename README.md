@@ -1,6 +1,6 @@
 # b1rdmania
 
-I build internet-native products across DeFi, AI agents, and music. Most of this is built with Claude Code.
+I build internet-native products across DeFi, AI agents / skills, and music tools. 
 
 ## Start Here
 
