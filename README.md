@@ -4,7 +4,7 @@ I build internet-native products across AI agents, DeFi, and music tools. Based 
 
 ## Emergence London
 
-Hosting [Emergence London](https://www.emergence.london/) — a three-day tech conference across AI, Web3, and the future of the internet. London, April 28–30, 2026.
+Hosting [Emergence London](https://www.emergence.london/) — a three-day tech conference. London, April 28–30, 2026.
 
 ## AI & Agents
 
