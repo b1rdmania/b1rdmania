@@ -2,10 +2,6 @@
 
 I build internet-native products across AI agents, DeFi, and music tools. Based in London.
 
-## Emergence London
-
-Hosting [Emergence London](https://www.emergence.london/) — a three-day tech conference. London, April 28–30, 2026.
-
 ## AI & Agents
 
 - [GhostClaw](https://github.com/b1rdmania/ghostclaw) — always-on AI co-worker. Telegram, WhatsApp, scheduled tasks. Bare metal, Claude Agent SDK.
