@@ -13,7 +13,7 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 | Project | Description |
 |---------|-------------|
 | [GhostClaw](https://github.com/b1rdmania/ghostclaw) · [ghostclaw.io](https://ghostclaw.io) | Always-on AI co-worker. Telegram, WhatsApp, scheduled tasks. Bare metal, Claude Agent SDK. |
-| [Dig](https://github.com/b1rdmania/dig) · [Paused](https://dig-baby-mvp.vercel.app) | Music data layer on the Discogs CC0 catalog. REST API + MCP for agents, search UI for humans. |
+| [Dig](https://github.com/b1rdmania/dig) · (https://dig-baby-mvp.vercel.app) | Music data layer on the Discogs CC0 catalog. REST API + MCP for agents, search UI for humans. |
 | [epubkit](https://github.com/b1rdmania/epubkit) | Web-based EPUB optimizer for e-ink readers. Converts images, strips fonts, cleans metadata. |
 
 ## Claude Skills
@@ -23,7 +23,6 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 | [geocities-skill](https://github.com/b1rdmania/geocities-skill) | Generates authentically terrible 1998-era Geocities personal websites. |
 | [Visible](https://github.com/b1rdmania/brand-audit) · [Live](https://brand-audits.vercel.app) | Audit your online presence for AI readiness. Scored reports, prioritised actions. |
 | [ghostclaw-skills](https://github.com/b1rdmania/ghostclaw-skills) | Curated skills for GhostClaw & Claude Code — marketing, design, automation, and weird stuff. |
-| [awesome-llm-skills](https://github.com/b1rdmania/awesome-llm-skills) | Comprehensive list of LLM and AI agent skills for Claude Code, Codex, Gemini CLI, and custom agents. |
 | [brand-skills](https://github.com/b1rdmania/claude-brand-skills) | Full brand identity kit. Escapes the convergence problem where LLMs generate the average. |
 | [animation-design](https://github.com/b1rdmania/claude-lottie-skill) | Search LottieFiles + Rive Marketplace, embed brand-coherent animations. |
 | [skill-auditor](https://github.com/b1rdmania/claude-skill-auditor) | Audits and scores other Claude Code skills. Yes, it's a little bit human centipede. |
@@ -35,9 +34,7 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 |---------|-------------|
 | [WAR.MARKET](https://github.com/b1rdmania/WarGames) · [Live](https://www.war.market) | Trade geopolitical narratives, not tickers. Won the HyperLiquid London Hackathon. |
 | [compost](https://github.com/b1rdmania/compost) · [compost.fi](https://compost.fi) | Capital formation layer for Hyperliquid builder markets. |
-| [jank-derby](https://github.com/b1rdmania/jank-derby) · [Live](https://jank-derby.vercel.app) | Provably fair horse-racing market game with commit-reveal RNG. |
 | [sorted-fund](https://github.com/b1rdmania/sorted-fund) · [Demo](https://sorted.fund/demo.html) | Gasless transaction infrastructure using ERC-4337 account abstraction. |
-| [canton-prediction-markets](https://github.com/b1rdmania/canton-prediction-markets) | AI-assisted prediction market trading on Canton. |
 
 ## Audio / Music
 
