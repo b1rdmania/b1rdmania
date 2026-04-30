@@ -43,7 +43,6 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 | [brand-skills](https://github.com/b1rdmania/claude-brand-skills) | Full brand identity kit. Escapes the convergence problem where LLMs generate the average. |
 | [animation-design](https://github.com/b1rdmania/claude-lottie-skill) | Search LottieFiles + Rive Marketplace, embed brand-coherent animations. |
 | [skill-auditor](https://github.com/b1rdmania/claude-skill-auditor) | Audits and scores other Claude Code skills. Yes, it's a little bit human centipede. |
-| [hinge-profile-optimizer](https://github.com/b1rdmania/hinge-profile-optimizer) | Research-backed dating profile optimization from 45+ peer-reviewed sources. |
 
 ## DeFi / Trading
 
@@ -60,20 +59,12 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 | [ghost-pattern](https://github.com/b1rdmania/ghost-pattern) · [Live](https://ghost-pattern.pages.dev) | Browser drum groove lab. Canonical patterns from the electronic music canon, MIDI export. |
 | [soundmatch](https://github.com/b1rdmania/soundmatch-audio-finder) | Royalty-free music discovery via search, MP3 upload, and link analysis. |
 
-## London
-
-| Project | Description |
-|---------|-------------|
-| [london-cinema-listings](https://github.com/b1rdmania/london-cinema-listings) · [Live](https://london-cinema-listings.vercel.app) | Indie cinema listings aggregator — Rio, Curzon, Prince Charles and more. |
-| [london-culture](https://github.com/b1rdmania/london-culture) · [Live](https://b1rdmania.github.io/london-culture/) | Weekly digest of talks, openings, and workshops. Not cinema. |
-
 ## Fun
 
 | Project | Description |
 |---------|-------------|
 | [Hell Strait](https://github.com/b1rdmania/hell-strait) · [Live](https://hell-strait-olive.vercel.app) | Browser strait-ops game based on Citrini Analyst #3. Three.js + Phaser. |
 | [claude-remote](https://github.com/b1rdmania/claude-remote) | Remote enter button from phone because I can't be arsed to lean forward. |
-| [ai-spurs-manager-eval](https://github.com/b1rdmania/ai-spurs-manager-eval) | Data-driven Tottenham manager assessment. The pain is quantified. |
 
 ---
 
