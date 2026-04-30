@@ -1,19 +1,36 @@
 # b1rdmania
 
-Building internet-native products across AI agents, DeFi, and music. Based in London.
+Mid-gap year. Building in AI, exploring sectors, staying curious. Background is DeFi — several active projects there — but lately I've been spending more time on legal AI and other areas with genuine regulatory moats or interesting infrastructure plays. A couple of legal MVPs here that I'm most interested in right now.
+
+I also built [GhostClaw](https://github.com/b1rdmania/ghostclaw) — a Claude SDK agent running bare metal, sandbox-free, autonomous execution. A fun experiment in what that actually feels like when the guardrails are off.
+
+I have a fairly wide skills database built in Claude Code. Some favourites listed below.
+
+Music background. Rebuilt a chunk of the Discogs catalogue targeting 1988-2008 house and techno via [Dig](https://github.com/b1rdmania/dig). Also made a drum pattern player grounded in the electronic music canon, and [Wario Style](https://github.com/b1rdmania/motif) is probably my favourite thing I've built.
+
+Open to collaborations and ideas. Picking one or two projects to run with early summer.
+
+🏆 WAR.MARKET — HyperLiquid London Community Hackathon (Jan 2026)  
+🏆 SoundMatch AI — hackathon-winning audio discovery project
 
 X: [@b1rdmania](https://x.com/b1rdmania)
 
-| [Hell Strait](https://github.com/b1rdmania/hell-strait) · [Live](https://hell-strait-olive.vercel.app) | Browser strait-ops game based on Citrini Analyst #3 Three.js + Phaser. |
-
 ---
+
+## Legal / AI
+
+| Project | Description |
+|---------|-------------|
+| [courtless](https://github.com/b1rdmania/courtless) · [courtless.xyz](https://courtless.xyz) | AI dispute audit. Disputes without courts. |
+| [birdmania-audit](https://github.com/b1rdmania/birdmania-audit) | AI time audits for founders. Productised consultancy built on schemas, prompts, and Claude Code. |
+| [council-of-high-intelligence](https://github.com/b1rdmania/council-of-high-intelligence) | Multi-agent deliberation framework. |
 
 ## AI & Agents
 
 | Project | Description |
 |---------|-------------|
 | [GhostClaw](https://github.com/b1rdmania/ghostclaw) · [ghostclaw.io](https://ghostclaw.io) | Always-on AI co-worker. Telegram, WhatsApp, scheduled tasks. Bare metal, Claude Agent SDK. |
-| [Dig](https://github.com/b1rdmania/dig) · (https://dig-baby-mvp.vercel.app) | Music data layer on the Discogs CC0 catalog. REST API + MCP for agents, search UI for humans. |
+| [Dig](https://github.com/b1rdmania/dig) · [dig-baby-mvp.vercel.app](https://dig-baby-mvp.vercel.app) | Music data layer on the Discogs CC0 catalog. REST API + MCP for agents, search UI for humans. |
 | [epubkit](https://github.com/b1rdmania/epubkit) | Web-based EPUB optimizer for e-ink readers. Converts images, strips fonts, cleans metadata. |
 
 ## Claude Skills
@@ -34,15 +51,14 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 |---------|-------------|
 | [WAR.MARKET](https://github.com/b1rdmania/WarGames) · [Live](https://www.war.market) | Trade geopolitical narratives, not tickers. Won the HyperLiquid London Hackathon. |
 | [compost](https://github.com/b1rdmania/compost) · [compost.fi](https://compost.fi) | Capital formation layer for Hyperliquid builder markets. |
-| [sorted-fund](https://github.com/b1rdmania/sorted-fund) · [Demo](https://sorted.fund/demo.html) | Gasless transaction infrastructure using ERC-4337 account abstraction. |
 
 ## Audio / Music
 
 | Project | Description |
 |---------|-------------|
 | [Wario Style](https://github.com/b1rdmania/motif) · [Live](https://www.wario.style) | Search any song, get the 8-bit Game Boy version. |
-| [soundmatch](https://github.com/b1rdmania/soundmatch-audio-finder) · [Paused](https://soundmatch-audio-finder.vercel.app) | Royalty-free music discovery via search, MP3 upload, and link analysis. |
-| [soundrights](https://github.com/b1rdmania/soundrights) (Paused)| On-chain music IP registration and licensing via Story Protocol. |
+| [ghost-pattern](https://github.com/b1rdmania/ghost-pattern) · [Live](https://ghost-pattern.pages.dev) | Browser drum groove lab. Canonical patterns from the electronic music canon, MIDI export. |
+| [soundmatch](https://github.com/b1rdmania/soundmatch-audio-finder) | Royalty-free music discovery via search, MP3 upload, and link analysis. |
 
 ## London
 
@@ -55,9 +71,9 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 
 | Project | Description |
 |---------|-------------|
-| [ai-spurs-manager-eval](https://github.com/b1rdmania/ai-spurs-manager-eval) | Data-driven Tottenham manager assessment. The pain is quantified. |
+| [Hell Strait](https://github.com/b1rdmania/hell-strait) · [Live](https://hell-strait-olive.vercel.app) | Browser strait-ops game based on Citrini Analyst #3. Three.js + Phaser. |
 | [claude-remote](https://github.com/b1rdmania/claude-remote) | Remote enter button from phone because I can't be arsed to lean forward. |
-| [Hell Strait](https://github.com/b1rdmania/hell-strait) · [Live](https://hell-strait-olive.vercel.app) | Browser strait-ops game based on Citrini Analyst #3 Three.js + Phaser. |
+| [ai-spurs-manager-eval](https://github.com/b1rdmania/ai-spurs-manager-eval) | Data-driven Tottenham manager assessment. The pain is quantified. |
 
 ---
 
@@ -65,9 +81,6 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 
 - **GhostClaw** — autonomous AI agent infrastructure
 - **Dig** — music data layer
-
-## Connect
-
-- X: [@b1rdmania](https://x.com/b1rdmania)
+- **courtless** — legal AI
 
 _Last updated: Apr 2026_
