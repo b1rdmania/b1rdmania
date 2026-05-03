@@ -51,6 +51,7 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 | [animation-design](https://github.com/b1rdmania/claude-lottie-skill) | Finds and embeds Lottie and Rive animations. |
 | [skill-auditor](https://github.com/b1rdmania/claude-skill-auditor) | Audits other Claude Code skills. Yes, it's a bit human centipede. |
 | [plain-english](https://github.com/b1rdmania/claude-plain-english-skill) | Kills LLM slop. Orwell '46 + Gowers '48 + the modern AI tic list. |
+| [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
 
 ---
 
