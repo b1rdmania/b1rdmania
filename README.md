@@ -23,6 +23,7 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 | [courtless](https://github.com/b1rdmania/courtless) · [courtless.xyz](https://courtless.xyz) | AI reads your dispute and tells you if you have a case. No lawyers required. |
 | [birdmania-audit](https://github.com/b1rdmania/birdmania-audit) | Where's your week going. AI-assisted time audit for founders, delivered async. |
 | [council-of-high-intelligence](https://github.com/b1rdmania/council-of-high-intelligence) | Multiple AI agents argue about a problem until something useful comes out. |
+| [claude-for-uk-legal](https://github.com/b1rdmania/claude-for-uk-legal) | Anthropic shipped legal plugins for US law. This is the UK version. Fifteen skills across employment, civil litigation, and legal research. |
 
 ## Music
 
@@ -57,4 +58,4 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 
 [GhostClaw](https://github.com/b1rdmania/ghostclaw) · [Hell Strait](https://github.com/b1rdmania/hell-strait) · [epubkit](https://github.com/b1rdmania/epubkit) · [claude-remote](https://github.com/b1rdmania/claude-remote)
 
-_Last updated: Apr 2026_
+_Last updated: May 2026_
