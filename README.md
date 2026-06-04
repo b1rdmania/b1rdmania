@@ -25,6 +25,8 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 | [council-of-high-intelligence](https://github.com/b1rdmania/council-of-high-intelligence) | Multiple AI agents argue about a problem until something useful comes out. |
 | [claude-for-uk-legal](https://github.com/b1rdmania/claude-for-uk-legal) | Anthropic shipped legal plugins for US law. This is the UK version. Fifteen skills across employment, civil litigation, and legal research. |
 | [memo](https://github.com/b1rdmania/memo) · [Live](https://memo-app-eta-tawny.vercel.app) | Reshapes a legal memo for the reader. Three audiences (client, junior, senior). Every claim cited back to the source paragraph. |
+| [notary](https://github.com/b1rdmania/notary) | Signed, human-approved execution receipts for any Claude skill. Proof of what an AI was allowed to do, and who approved it, that nobody can forge without the key. Drop-in MCP server, no infra. |
+| [kramer-v-ai](https://github.com/b1rdmania/kramer-v-ai) · [divorce.broker](https://divorce.broker) | AI-guided amicable divorce settlement, money picture to filing pack, with a human in the loop throughout. A Nicole and Keith parody on top, a serious supervised-autonomy demo underneath. |
 
 ## Music
 
@@ -52,6 +54,8 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 | [ghostclaw-skills](https://github.com/b1rdmania/ghostclaw-skills) | Curated skill pack for GhostClaw and Claude Code. |
 | [animation-design](https://github.com/b1rdmania/claude-lottie-skill) | Finds and embeds Lottie and Rive animations. |
 | [skill-auditor](https://github.com/b1rdmania/claude-skill-auditor) | Audits other Claude Code skills. Yes, it's a bit human centipede. |
+| [skill-security-audit](https://github.com/b1rdmania/skill-security-audit) | Security-audits other Claude skills before you run them. Severity-governed: one Critical means unsafe. |
+| [mobbin-claude-rodeo](https://github.com/b1rdmania/mobbin-claude-rodeo) | Find real-app UI references on Mobbin and build to them faithfully. No LLM drift, no stale specs. |
 | [plain-english](https://github.com/b1rdmania/claude-plain-english-skill) | Kills LLM slop. Orwell '46 + Gowers '48 + the modern AI tic list. |
 | [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
 | [readme-generator](https://github.com/b1rdmania/readme-generator) | Reads a repo, writes the README in one pass. No placeholders. Forked from [GLINCKER's marketplace](https://github.com/glincker/claude-code-marketplace). |
@@ -60,4 +64,4 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 
 [GhostClaw](https://github.com/b1rdmania/ghostclaw) · [Hell Strait](https://github.com/b1rdmania/hell-strait) · [epubkit](https://github.com/b1rdmania/epubkit) · [claude-remote](https://github.com/b1rdmania/claude-remote)
 
-_Last updated: 14 May 2026_
+_Last updated: 4 June 2026_
