@@ -29,7 +29,6 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 | [skill-security-audit](https://github.com/b1rdmania/skill-security-audit) | Security-audits other Claude skills before you run them. Severity-governed: one Critical means unsafe. |
 | [plain-english](https://github.com/b1rdmania/claude-plain-english-skill) | Kills LLM slop. Orwell '46 + Gowers '48 + the modern AI tic list. |
 | [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
-| [council-of-high-intelligence](https://github.com/b1rdmania/council-of-high-intelligence) | Multiple AI agents argue about a problem until something useful comes out. |
 | [mobbin-claude-rodeo](https://github.com/b1rdmania/mobbin-claude-rodeo) | Find real-app UI references on Mobbin and build to them faithfully. No LLM drift, no stale specs. |
 | [brand-skills](https://github.com/b1rdmania/claude-brand-skills) | Brand identity in Claude Code. Stops LLMs generating the average. |
 | [animation-design](https://github.com/b1rdmania/claude-lottie-skill) | Finds and embeds Lottie and Rive animations. |
