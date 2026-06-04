@@ -57,11 +57,10 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 | [mobbin-claude-rodeo](https://github.com/b1rdmania/mobbin-claude-rodeo) | Find real-app UI references on Mobbin and build to them faithfully. No LLM drift, no stale specs. |
 | [plain-english](https://github.com/b1rdmania/claude-plain-english-skill) | Kills LLM slop. Orwell '46 + Gowers '48 + the modern AI tic list. |
 | [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
-| [council-of-high-intelligence](https://github.com/b1rdmania/council-of-high-intelligence) | Multiple AI agents argue about a problem until something useful comes out. |
 | [readme-generator](https://github.com/b1rdmania/readme-generator) | Reads a repo, writes the README in one pass. No placeholders. Forked from [GLINCKER's marketplace](https://github.com/glincker/claude-code-marketplace). |
 
 ---
 
-[GhostClaw](https://github.com/b1rdmania/ghostclaw) · [Hell Strait](https://github.com/b1rdmania/hell-strait) · [epubkit](https://github.com/b1rdmania/epubkit) · [claude-remote](https://github.com/b1rdmania/claude-remote)
+[GhostClaw](https://github.com/b1rdmania/ghostclaw) · [Hell Strait](https://github.com/b1rdmania/hell-strait) · [epubkit](https://github.com/b1rdmania/epubkit) · [claude-remote](https://github.com/b1rdmania/claude-remote) · [council-of-high-intelligence](https://github.com/b1rdmania/council-of-high-intelligence)
 
 _Last updated: 4 June 2026_
