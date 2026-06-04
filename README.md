@@ -1,16 +1,10 @@
 # b1rdmania
 
-Mid-gap year. Building in AI, exploring sectors, staying curious. Background is DeFi — several active projects there — but lately I've been spending more time on legal AI and other areas with genuine regulatory moats or interesting infrastructure plays. A couple of legal MVPs here that I'm most interested in right now.
+Mid-gap year, building in AI. Mostly legal AI right now: supervised-autonomy tools and UK-jurisdiction Claude skills, the areas with real regulatory moats. Background in DeFi, and a deep music-tech streak on the side.
 
-I also built [GhostClaw](https://github.com/b1rdmania/ghostclaw) — a Claude SDK agent that runs on your machine, bare metal, no sandbox, autonomous execution. A fun experiment in what that actually feels like when the guardrails are off.
+A wide library of Claude Code skills, favourites below. Open to collaborations, picking one or two projects to run with this summer.
 
-I have a fairly wide skills database built in Claude Code. Some favourites listed below.
-
-Music background. Rebuilt a chunk of the Discogs catalogue targeting 1988-2008 house and techno. Also made a drum pattern player grounded in the electronic music canon, and [Wario Style](https://github.com/b1rdmania/motif) is probably my favourite thing I've built.
-
-Open to collaborations and ideas. Picking one or two projects to run with early summer.
-
-🏆 WAR.MARKET — HyperLiquid London Community Hackathon (Jan 2026)
+🏆 WAR.MARKET — winner, HyperLiquid London Community Hackathon (Jan 2026)
 
 X: [@b1rdmania](https://x.com/b1rdmania)
 
@@ -27,6 +21,32 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 | [notary](https://github.com/b1rdmania/notary) | Signed, human-approved execution receipts for any Claude skill. Proof of what an AI was allowed to do, and who approved it, that nobody can forge without the key. Drop-in MCP server, no infra. |
 | [kramer-v-ai](https://github.com/b1rdmania/kramer-v-ai) · [divorce.broker](https://divorce.broker) | AI-guided amicable divorce settlement, money picture to filing pack, with a human in the loop throughout. A Nicole and Keith parody on top, a serious supervised-autonomy demo underneath. |
 
+## Claude Skills
+
+| Skill | |
+|-------|-------------|
+| [skill-auditor](https://github.com/b1rdmania/claude-skill-auditor) | Audits other Claude Code skills. Yes, it's a bit human centipede. |
+| [skill-security-audit](https://github.com/b1rdmania/skill-security-audit) | Security-audits other Claude skills before you run them. Severity-governed: one Critical means unsafe. |
+| [plain-english](https://github.com/b1rdmania/claude-plain-english-skill) | Kills LLM slop. Orwell '46 + Gowers '48 + the modern AI tic list. |
+| [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
+| [council-of-high-intelligence](https://github.com/b1rdmania/council-of-high-intelligence) | Multiple AI agents argue about a problem until something useful comes out. |
+| [mobbin-claude-rodeo](https://github.com/b1rdmania/mobbin-claude-rodeo) | Find real-app UI references on Mobbin and build to them faithfully. No LLM drift, no stale specs. |
+| [brand-skills](https://github.com/b1rdmania/claude-brand-skills) | Brand identity in Claude Code. Stops LLMs generating the average. |
+| [animation-design](https://github.com/b1rdmania/claude-lottie-skill) | Finds and embeds Lottie and Rive animations. |
+| [Visible](https://github.com/b1rdmania/brand-audit) · [Live](https://brand-audits.vercel.app) | Tells you if AI can find you online. If not, fixes it. |
+| [geocities-skill](https://github.com/b1rdmania/geocities-skill) | Generates authentically terrible 1998-era Geocities personal websites. |
+| [ghostclaw-skills](https://github.com/b1rdmania/ghostclaw-skills) | Curated skill pack for GhostClaw and Claude Code. |
+| [readme-generator](https://github.com/b1rdmania/readme-generator) | Reads a repo, writes the README in one pass. No placeholders. Forked from [GLINCKER's marketplace](https://github.com/glincker/claude-code-marketplace). |
+
+## Tools & experiments
+
+| Project | |
+|---------|-------------|
+| [GhostClaw](https://github.com/b1rdmania/ghostclaw) · [ghostclaw.io](https://ghostclaw.io) | A Claude SDK agent that runs on your machine. Bare metal, no sandbox, autonomous execution. What it feels like with the guardrails off. |
+| [epubkit](https://github.com/b1rdmania/epubkit) | Optimises EPUBs for e-ink readers. Converts images, strips fonts, cleans CSS and metadata, fixes the TOC, in one pass. |
+| [Hell Strait](https://github.com/b1rdmania/hell-strait) | Browser strait-ops game. Vite, Three.js, Phaser. |
+| [claude-remote](https://github.com/b1rdmania/claude-remote) | Presses Enter on my machine from my phone, because leaning forward is hard. |
+
 ## Music
 
 | Project | |
@@ -42,25 +62,5 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 |---------|-------------|
 | [WAR.MARKET](https://github.com/b1rdmania/WarGames) · [Live](https://www.war.market) | Trade geopolitical narratives, not tickers. Won the HyperLiquid London Hackathon. |
 | [compost](https://github.com/b1rdmania/compost) · [compost.fi](https://compost.fi) | Execution primitives for Hyperliquid builder markets. |
-
-## Claude Skills
-
-| Skill | |
-|-------|-------------|
-| [geocities-skill](https://github.com/b1rdmania/geocities-skill) | Generates authentically terrible 1998-era Geocities personal websites. |
-| [Visible](https://github.com/b1rdmania/brand-audit) · [Live](https://brand-audits.vercel.app) | Tells you if AI can find you online. If not, fixes it. |
-| [brand-skills](https://github.com/b1rdmania/claude-brand-skills) | Brand identity in Claude Code. Stops LLMs generating the average. |
-| [ghostclaw-skills](https://github.com/b1rdmania/ghostclaw-skills) | Curated skill pack for GhostClaw and Claude Code. |
-| [animation-design](https://github.com/b1rdmania/claude-lottie-skill) | Finds and embeds Lottie and Rive animations. |
-| [skill-auditor](https://github.com/b1rdmania/claude-skill-auditor) | Audits other Claude Code skills. Yes, it's a bit human centipede. |
-| [skill-security-audit](https://github.com/b1rdmania/skill-security-audit) | Security-audits other Claude skills before you run them. Severity-governed: one Critical means unsafe. |
-| [mobbin-claude-rodeo](https://github.com/b1rdmania/mobbin-claude-rodeo) | Find real-app UI references on Mobbin and build to them faithfully. No LLM drift, no stale specs. |
-| [plain-english](https://github.com/b1rdmania/claude-plain-english-skill) | Kills LLM slop. Orwell '46 + Gowers '48 + the modern AI tic list. |
-| [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
-| [readme-generator](https://github.com/b1rdmania/readme-generator) | Reads a repo, writes the README in one pass. No placeholders. Forked from [GLINCKER's marketplace](https://github.com/glincker/claude-code-marketplace). |
-
----
-
-[GhostClaw](https://github.com/b1rdmania/ghostclaw) · [Hell Strait](https://github.com/b1rdmania/hell-strait) · [epubkit](https://github.com/b1rdmania/epubkit) · [claude-remote](https://github.com/b1rdmania/claude-remote) · [council-of-high-intelligence](https://github.com/b1rdmania/council-of-high-intelligence)
 
 _Last updated: 4 June 2026_
