@@ -14,7 +14,7 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 
 | Project | |
 |---------|-------------|
-| [courtless](https://github.com/b1rdmania/courtless) · [courtless.xyz](https://courtless.xyz) | AI reads your dispute and tells you if you have a case. No lawyers required. |
+| [courtless](https://github.com/b1rdmania/courtless) · [courtless.xyz](https://courtless.xyz) | Disputes without courts. Neutral AI mediation that reads both sides, before anyone spends £10k on lawyers. Case-law-grounded, async. |
 | [premotion](https://github.com/b1rdmania/premotion) · [premotion.io](https://premotion.io) | Adversarial premortem for UK litigation. Multi-model, multi-agent: shows how your case gets torn apart before you file. |
 | [claude-for-uk-legal](https://github.com/b1rdmania/claude-for-uk-legal) | Anthropic shipped legal plugins for US law. This is the UK version. Fifteen skills across employment, civil litigation, and legal research. |
 | [memo](https://github.com/b1rdmania/memo) · [Live](https://memo-app-eta-tawny.vercel.app) | Reshapes a legal memo for the reader. Three audiences (client, junior, senior). Every claim cited back to the source paragraph. |
