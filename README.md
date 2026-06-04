@@ -21,7 +21,6 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 | Project | |
 |---------|-------------|
 | [courtless](https://github.com/b1rdmania/courtless) · [courtless.xyz](https://courtless.xyz) | AI reads your dispute and tells you if you have a case. No lawyers required. |
-| [birdmania-audit](https://github.com/b1rdmania/birdmania-audit) | Where's your week going. AI-assisted time audit for founders, delivered async. |
 | [council-of-high-intelligence](https://github.com/b1rdmania/council-of-high-intelligence) | Multiple AI agents argue about a problem until something useful comes out. |
 | [claude-for-uk-legal](https://github.com/b1rdmania/claude-for-uk-legal) | Anthropic shipped legal plugins for US law. This is the UK version. Fifteen skills across employment, civil litigation, and legal research. |
 | [memo](https://github.com/b1rdmania/memo) · [Live](https://memo-app-eta-tawny.vercel.app) | Reshapes a legal memo for the reader. Three audiences (client, junior, senior). Every claim cited back to the source paragraph. |
