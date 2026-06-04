@@ -21,7 +21,7 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 | Project | |
 |---------|-------------|
 | [courtless](https://github.com/b1rdmania/courtless) · [courtless.xyz](https://courtless.xyz) | AI reads your dispute and tells you if you have a case. No lawyers required. |
-| [council-of-high-intelligence](https://github.com/b1rdmania/council-of-high-intelligence) | Multiple AI agents argue about a problem until something useful comes out. |
+| [premotion](https://github.com/b1rdmania/premotion) · [premotion.io](https://premotion.io) | Adversarial premortem for UK litigation. Multi-model, multi-agent: shows how your case gets torn apart before you file. |
 | [claude-for-uk-legal](https://github.com/b1rdmania/claude-for-uk-legal) | Anthropic shipped legal plugins for US law. This is the UK version. Fifteen skills across employment, civil litigation, and legal research. |
 | [memo](https://github.com/b1rdmania/memo) · [Live](https://memo-app-eta-tawny.vercel.app) | Reshapes a legal memo for the reader. Three audiences (client, junior, senior). Every claim cited back to the source paragraph. |
 | [notary](https://github.com/b1rdmania/notary) | Signed, human-approved execution receipts for any Claude skill. Proof of what an AI was allowed to do, and who approved it, that nobody can forge without the key. Drop-in MCP server, no infra. |
@@ -57,6 +57,7 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 | [mobbin-claude-rodeo](https://github.com/b1rdmania/mobbin-claude-rodeo) | Find real-app UI references on Mobbin and build to them faithfully. No LLM drift, no stale specs. |
 | [plain-english](https://github.com/b1rdmania/claude-plain-english-skill) | Kills LLM slop. Orwell '46 + Gowers '48 + the modern AI tic list. |
 | [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
+| [council-of-high-intelligence](https://github.com/b1rdmania/council-of-high-intelligence) | Multiple AI agents argue about a problem until something useful comes out. |
 | [readme-generator](https://github.com/b1rdmania/readme-generator) | Reads a repo, writes the README in one pass. No placeholders. Forked from [GLINCKER's marketplace](https://github.com/glincker/claude-code-marketplace). |
 
 ---
