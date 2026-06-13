@@ -10,15 +10,44 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 
 ---
 
-## Legal
+## Legal — UK legal AI
+
+A supervised-autonomy workspace and a suite of statute-grounded skills that plug into it. Every skill drafts for a solicitor to verify, names the framework it works under, and surfaces the trap before it bites.
+
+**The workspace**
+
+| Project | |
+|---------|-------------|
+| [legalise](https://github.com/b1rdmania/legalise) · [legalise.dev](https://legalise.dev) | Open-source supervised-autonomy workspace for UK legal work. The register underneath the skills below: every action signed, supervised, and provable. |
+
+**Employment**
+
+| Skill | |
+|-------|-------------|
+| [unfair-dismissal-screener](https://github.com/b1rdmania/unfair-dismissal-screener) | Screens a dismissal against the s.94 ERA framework and shows where it's exposed. |
+| [settlement-agreement-review](https://github.com/b1rdmania/settlement-agreement-review) | Settlement agreements under s.203 ERA 1996. Flags the statutory condition gaps that decide whether the agreement actually binds. |
+| [lba-drafter](https://github.com/b1rdmania/lba-drafter) | Letter Before Action for employment disputes. Right pre-action framework, and the tribunal time-limit trap surfaced before it bites. |
+
+**Litigation**
+
+| Skill | |
+|-------|-------------|
+| [chronology](https://github.com/b1rdmania/chronology) | Disclosure-sourced litigation chronology. Every entry attributed to its source document, behind a CPR 31.22 implied-undertaking check and privilege screen. |
+| [pre-motion](https://github.com/b1rdmania/pre-motion) | Adversarial premortem for England & Wales civil litigation. Builds the strongest version of the case, then attacks it from four angles to find where it loses. |
+| [memo](https://github.com/b1rdmania/memo) · [Live](https://memo-app-eta-tawny.vercel.app) | Reshapes a legal memo for the reader — client, junior, senior. Every claim cited back to its source paragraph. |
+
+**Governance & proof**
+
+| Project | |
+|---------|-------------|
+| [notary](https://github.com/b1rdmania/notary) | Signed, human-approved execution receipts for any Claude skill. Proof of what an AI was allowed to do, and who approved it, that nobody can forge without the key. Drop-in MCP server, no infra. |
+| [skill-security-audit](https://github.com/b1rdmania/skill-security-audit) | Security-audits a skill before you run it. Severity-governed: one Critical means unsafe. |
+
+**Adjacent**
 
 | Project | |
 |---------|-------------|
 | [courtless](https://github.com/b1rdmania/courtless) · [courtless.xyz](https://courtless.xyz) | Disputes without courts. Neutral AI mediation that reads both sides, before anyone spends £10k on lawyers. Case-law-grounded, async. |
-| [premotion](https://github.com/b1rdmania/premotion) · [premotion.io](https://premotion.io) | Adversarial premortem for UK litigation. Multi-model, multi-agent: shows how your case gets torn apart before you file. |
-| [claude-for-uk-legal](https://github.com/b1rdmania/claude-for-uk-legal) | Anthropic shipped legal plugins for US law. This is the UK version. Fifteen skills across employment, civil litigation, and legal research. |
-| [memo](https://github.com/b1rdmania/memo) · [Live](https://memo-app-eta-tawny.vercel.app) | Reshapes a legal memo for the reader. Three audiences (client, junior, senior). Every claim cited back to the source paragraph. |
-| [notary](https://github.com/b1rdmania/notary) | Signed, human-approved execution receipts for any Claude skill. Proof of what an AI was allowed to do, and who approved it, that nobody can forge without the key. Drop-in MCP server, no infra. |
 | [kramer-v-ai](https://github.com/b1rdmania/kramer-v-ai) · [divorce.broker](https://divorce.broker) | AI-guided amicable divorce settlement, money picture to filing pack, with a human in the loop throughout. A Nicole and Keith parody on top, a serious supervised-autonomy demo underneath. |
 
 ## Claude Skills
@@ -62,4 +91,4 @@ X: [@b1rdmania](https://x.com/b1rdmania)
 | [WAR.MARKET](https://github.com/b1rdmania/WarGames) · [Live](https://www.war.market) | Trade geopolitical narratives, not tickers. Won the HyperLiquid London Hackathon. |
 | [compost](https://github.com/b1rdmania/compost) · [compost.fi](https://compost.fi) | Execution primitives for Hyperliquid builder markets. |
 
-_Last updated: 4 June 2026_
+_Last updated: 13 June 2026_
