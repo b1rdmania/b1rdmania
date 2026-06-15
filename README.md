@@ -1,12 +1,12 @@
 # b1rdmania
 
+[![Total stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fb1rdmania&query=%24.stars&label=total%20stars&color=DAA520&style=flat-square&logo=github)](https://github.com/b1rdmania?tab=repositories&sort=stargazers) [![X](https://img.shields.io/badge/@b1rdmania-000?style=flat-square&logo=x&logoColor=white)](https://x.com/b1rdmania)
+
 Mid-gap year, building in AI. Mostly legal AI right now: supervised-autonomy tools and UK-jurisdiction Claude skills, the areas with real regulatory moats. Background in DeFi, and a deep music-tech streak on the side.
 
 A wide library of Claude Code skills, favourites below. Open to collaborations, picking one or two projects to run with this summer.
 
 🏆 WAR.MARKET — winner, HyperLiquid London Community Hackathon (Jan 2026)
-
-X: [@b1rdmania](https://x.com/b1rdmania)
 
 ---
 
