@@ -1,7 +1,3 @@
-<a href="https://wario.style"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
-
-▸ **[Wario.Style](https://wario.style)** — type any song, get the 8-bit Game Boy version. Four channels of raw chiptune, zero samples. *(tap through for sound — GitHub won't play it here)* · [source](https://github.com/b1rdmania/motif)
-
 # b1rdmania
 
 [![Total stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fb1rdmania&query=%24.stars&label=total%20stars&color=DAA520&style=flat-square&logo=github)](https://github.com/b1rdmania?tab=repositories&sort=stargazers) [![X](https://img.shields.io/badge/@b1rdmania-000?style=flat-square&logo=x&logoColor=white)](https://x.com/b1rdmania)
@@ -11,6 +7,10 @@ Mid-gap year, building in AI. Mostly legal AI right now: supervised-autonomy too
 A wide library of Claude Code skills, favourites below. Open to collaborations, picking one or two projects to run with this summer.
 
 🏆 WAR.MARKET — winner, HyperLiquid London Community Hackathon (Jan 2026)
+
+<a href="https://www.wario.style/s/Uaz9Hiop"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
+
+▸ **[Wario.Style](https://www.wario.style/s/Uaz9Hiop)** — type any song, get the 8-bit Game Boy version. Four channels of raw chiptune, zero samples. *(tap through for sound — GitHub won't play it here)* · [source](https://github.com/b1rdmania/motif)
 
 ---
 
