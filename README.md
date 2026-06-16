@@ -22,7 +22,7 @@ A supervised-autonomy workspace and a suite of statute-grounded skills that plug
 
 | Project | |
 |---------|-------------|
-| [legalise](https://github.com/b1rdmania/legalise) · [legalise.dev](https://legalise.dev) | Open-source supervised-autonomy workspace for UK legal work. The register underneath the skills below: every action signed, supervised, and provable. |
+| [legalise - Work In Progress](https://github.com/b1rdmania/legalise) · [legalise.dev](https://legalise.dev) | Open-source supervised-autonomy workspace for UK legal work. The register underneath the skills below: every action signed, supervised, and provable. |
 
 **Employment**
 
