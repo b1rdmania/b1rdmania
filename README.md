@@ -2,7 +2,7 @@
 
 [![Total stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fb1rdmania&query=%24.stars&label=total%20stars&color=DAA520&style=flat-square&logo=github)](https://github.com/b1rdmania?tab=repositories&sort=stargazers) [![Followers](https://img.shields.io/github/followers/b1rdmania?label=followers&style=flat-square&logo=github&logoColor=white&color=555)](https://github.com/b1rdmania?tab=followers) ![Based in London](https://img.shields.io/badge/based%20in-London-555?style=flat-square) [![X](https://img.shields.io/badge/@b1rdmania-000?style=flat-square&logo=x&logoColor=white)](https://x.com/b1rdmania)
 
-Building in AI, mostly legal AI: supervised-autonomy tools and UK-jurisdiction Claude skills — the areas with real regulatory moats. Prior life in DeFi, deep music-tech streak on the side. Open to collaborations, picking one or two projects to run with this summer.
+Building in AI, at the moment experimenting in open-source legal AI: supervised-autonomy tools and UK-jurisdiction Claude skills — the areas with real regulatory moats. Prior life in Web3, deep music-tech streak on the side. Open to collaborations.
 
 🏆 WAR.MARKET — winner, HyperLiquid London Community Hackathon (Jan 2026)
 
