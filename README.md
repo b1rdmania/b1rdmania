@@ -6,7 +6,7 @@ Building in AI, at the moment experimenting in open-source legal AI: supervised-
 
 🏆 WAR.MARKET — winner, HyperLiquid London Community Hackathon (Jan 2026)
 
-<a href="https://www.wario.style/s/Uaz9Hiop"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
+<a href="https://www.wario.style/v2.html?id=96973&title=STEELY%20DAN.Peg%20K.mid"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
 
 ▸ **[GhostClaw](https://github.com/b1rdmania/ghostclaw)** · [ghostclaw.io](https://ghostclaw.io) — a Claude SDK agent that runs on your own machine. Bare metal, no sandbox, autonomous execution. What it feels like with the guardrails off.
 
