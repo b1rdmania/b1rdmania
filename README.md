@@ -32,6 +32,7 @@ Plus a suite of statute-grounded skills across employment and litigation → **[
 | Skill | |
 |-------|--|
 | [boss-whisperer](https://github.com/b1rdmania/boss-whisperer-skill) · [bosswhisperer.fun](https://bosswhisperer.fun) | Reverse-engineer your boss. Anonymised, multi-framework read — what they actually want, how to manage up. Munger meets Gottman. |
+| [bro](https://github.com/b1rdmania/bro) | Context reset. Settled concern still steering the thread, plan bigger than the problem, still planning after you said go. Say bro. One line, no sorry, back to the actual question. |
 | [plain-english](https://github.com/b1rdmania/claude-plain-english-skill) | Kills LLM slop. Orwell '46 + Gowers '48 + the modern AI tic list. |
 | [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
 | [skill-auditor](https://github.com/b1rdmania/claude-skill-auditor) | Audits other Claude Code skills. Yes, it's a bit human centipede. |
