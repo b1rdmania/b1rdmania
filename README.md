@@ -2,7 +2,17 @@
 
 [![Total stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fb1rdmania&query=%24.stars&label=total%20stars&color=DAA520&style=flat-square&logo=github)](https://github.com/b1rdmania?tab=repositories&sort=stargazers) [![Followers](https://img.shields.io/github/followers/b1rdmania?label=followers&style=flat-square&logo=github&logoColor=white&color=555)](https://github.com/b1rdmania?tab=followers) ![Based in London](https://img.shields.io/badge/based%20in-London-555?style=flat-square) [![X](https://img.shields.io/badge/@b1rdmania-000?style=flat-square&logo=x&logoColor=white)](https://x.com/b1rdmania)
 
-Building in AI, at the moment experimenting in open-source legal AI: supervised-autonomy tools. Prior life in Web3, events, deep music-tech streak on the side. Open to collaborations.
+Building in AI. Mostly big data - structuring it, then running agents across it.
+
+I build the data layer as much as the analysis. Replicated datasets, cross-source APIs, MCP servers - then swarms of agents on top for due-diligence and anti-hallucination work. Findings that each trace to a real source, or an honest account of what couldn't be established. No vibes, no confident guessing.
+
+Dig puts it all together: a rebuilt Discogs catalog, served over MCP, agents digging through it.
+
+Ran it across a few domains this year: legal AI (a handful of pilots, last six months), plus e-commerce and music.
+
+Sidelines, mostly for my own use, some published: Wario Style (type any song, get the 8-bit Game Boy version), Boss Whisperer, a stack of Claude skills.
+
+Ship fast, across domains. London.
 
 🏆 WAR.MARKET — winner, HyperLiquid London Community Hackathon (Jan 2026)
 
