@@ -16,11 +16,11 @@ Ship fast, across domains. London.
 
 🏆 WAR.MARKET — winner, HyperLiquid London Community Hackathon (Jan 2026)
 
-<a href="https://www.wario.style/v2.html?id=96973&title=STEELY%20DAN.Peg%20K.mid"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
+<a href="https://wario.style"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
 
 ▸ **[GhostClaw](https://github.com/b1rdmania/ghostclaw)** · [ghostclaw.io](https://ghostclaw.io) — a Claude SDK agent that runs on your own machine. Bare metal, no sandbox, autonomous execution. What it feels like with the guardrails off.
 
-▸ **[Wario.Style](https://www.wario.style/s/Uaz9Hiop)** — type any song, get the 8-bit Game Boy version. Four channels of raw chiptune, zero samples. *(tap through for sound — GitHub won't play it here)* · [source](https://github.com/b1rdmania/motif)
+▸ **[Wario.Style](https://wario.style)** — type any song, get the 8-bit Game Boy version. Four channels of raw chiptune, zero samples. *(tap through for sound — GitHub won't play it here)* · [source](https://github.com/b1rdmania/motif)
 
 ---
 
@@ -53,4 +53,4 @@ Plus a suite of statute-grounded skills across employment and litigation → **[
 
 ## Also
 
-Music-tech ([Dig](https://dig-baby-mvp.vercel.app), [ghost-pattern](https://ghost-pattern.pages.dev)), a [generative London garden](https://github.com/b1rdmania/gardenos), and DeFi ([WAR.MARKET](https://www.war.market), [compost](https://compost.fi)) → **[all repos](https://github.com/b1rdmania?tab=repositories)**
+Music-tech ([Dig](https://app.dig.baby), [ghost-pattern](https://ghost-pattern.pages.dev)), a [generative London garden](https://github.com/b1rdmania/gardenos), and DeFi ([WAR.MARKET](https://www.war.market), [compost](https://compost.fi)) → **[all repos](https://github.com/b1rdmania?tab=repositories)**
