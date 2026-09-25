@@ -13,12 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Count stars across owned, non-fork repos
+      - name: Count stars across owned repos (forks included)
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           stars=$(gh api --paginate "users/${{ github.repository_owner }}/repos?per_page=100&type=owner" \
-            --jq '.[] | select(.fork | not) | .stargazers_count' | awk '{s+=$1} END {print s+0}')
+            --jq '.[].stargazers_count' | awk '{s+=$1} END {print s+0}')
           echo "stars=$stars"
           printf '{"schemaVersion":1,"label":"total stars","message":"%s","color":"DAA520"}\n' "$stars" > stars.json
       - name: Commit if changed
