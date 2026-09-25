@@ -1,6 +1,6 @@
 # b1rdmania
 
-[![Total stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fb1rdmania&query=%24.stars&label=total%20stars&color=DAA520&style=flat-square&logo=github)](https://github.com/b1rdmania?tab=repositories&sort=stargazers) [![Followers](https://img.shields.io/github/followers/b1rdmania?label=followers&style=flat-square&logo=github&logoColor=white&color=555)](https://github.com/b1rdmania?tab=followers) ![Based in London](https://img.shields.io/badge/based%20in-London-555?style=flat-square) [![X](https://img.shields.io/badge/@b1rdmania-000?style=flat-square&logo=x&logoColor=white)](https://x.com/b1rdmania)
+[![Total stars](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fb1rdmania%2Fb1rdmania%2Fmain%2Fstars.json&style=flat-square&logo=github)](https://github.com/b1rdmania?tab=repositories&sort=stargazers) [![Followers](https://img.shields.io/github/followers/b1rdmania?label=followers&style=flat-square&logo=github&logoColor=white&color=555)](https://github.com/b1rdmania?tab=followers) ![Based in London](https://img.shields.io/badge/based%20in-London-555?style=flat-square) [![X](https://img.shields.io/badge/@b1rdmania-000?style=flat-square&logo=x&logoColor=white)](https://x.com/b1rdmania)
 
 Building in AI. Mostly big data - structuring it, then running agents across it.
 
