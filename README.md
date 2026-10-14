@@ -38,6 +38,15 @@ Most of the serious stuff is in private repos, soz.
 
 ## Claude Skills / GPT Plugins
 
+### Thinking & writing
+
+| Skill | |
+|---|---|
+| [plain-english](https://github.com/b1rdmania/claude-plain-english-skill) | Kills LLM slop. Orwell '46 + Gowers '48 + the modern AI tic list. |
+| [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
+| [voice-kit](https://github.com/b1rdmania/voice-kit) | Builds your voice guide from your own AI history, so posts and messages sound like you. |
+| [portfolio-triage](https://github.com/b1rdmania/portfolio-triage) | Sorts every live project into This week / Watch / Park / Kill. |
+
 ### Fun
 
 | Skill | |
@@ -47,15 +56,6 @@ Most of the serious stuff is in private repos, soz.
 | [boss-whisperer](https://github.com/b1rdmania/boss-whisperer-skill) · [bosswhisperer.fun](https://bosswhisperer.fun) | Reverse-engineer your boss from the messages you already have. Munger meets Gottman. What they want, and how to manage up. |
 | [bro](https://github.com/b1rdmania/bro) | Claude lost the plot? Say bro. One line, no sorry, back to the actual question. |
 | [geocities-skill](https://github.com/b1rdmania/geocities-skill) | Builds authentically terrible 1998 GeoCities homepages. Starfields, hit counters, under-construction GIFs. |
-
-### Thinking & writing
-
-| Skill | |
-|---|---|
-| [plain-english](https://github.com/b1rdmania/claude-plain-english-skill) | Kills LLM slop. Orwell '46 + Gowers '48 + the modern AI tic list. |
-| [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
-| [voice-kit](https://github.com/b1rdmania/voice-kit) | Builds your voice guide from your own AI history, so posts and messages sound like you. |
-| [portfolio-triage](https://github.com/b1rdmania/portfolio-triage) | Sorts every live project into This week / Watch / Park / Kill. |
 
 ### Building
 
