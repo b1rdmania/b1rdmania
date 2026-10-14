@@ -33,20 +33,50 @@ Most of the serious stuff is in private repos, soz.
 
 ## Claude skills
 
+### Thinking & writing
+
 | Skill | |
-|-------|--|
-| [boss-whisperer](https://github.com/b1rdmania/boss-whisperer-skill) · [bosswhisperer.fun](https://bosswhisperer.fun) | Reverse-engineer your boss. Anonymised, multi-framework read — what they actually want, how to manage up. Munger meets Gottman. |
-| [bro](https://github.com/b1rdmania/bro) | Context reset. Settled concern still steering the thread, plan bigger than the problem, still planning after you said go. Say bro. One line, no sorry, back to the actual question. |
-| [voice-kit](https://github.com/b1rdmania/voice-kit) | Write posts and messages that sound like you. Builds your voice guide from your own AI history. |
+|---|---|
 | [plain-english](https://github.com/b1rdmania/claude-plain-english-skill) | Kills LLM slop. Orwell '46 + Gowers '48 + the modern AI tic list. |
 | [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
-| [readme-generator](https://github.com/b1rdmania/readme-generator) | Reads a repo and writes its README in one pass. No placeholder sections. |
-| [tony-protocol](https://github.com/b1rdmania/tony-protocol) · [Product Hunt](https://www.producthunt.com/products/the-tony-protocol) | Run your sub-agents like a North Jersey crime family. Get a decision before Christopher writes another screenplay. |
-| [skill-auditor](https://github.com/b1rdmania/claude-skill-auditor) | Audits other Claude Code skills. Yes, it's a bit human centipede. |
-| [skill-security-audit](https://github.com/b1rdmania/skill-security-audit) | Security-audits a skill before you run it. Severity-governed: one Critical means unsafe. |
-| [mobbin-claude-rodeo](https://github.com/b1rdmania/mobbin-claude-rodeo) | Find real-app UI references on Mobbin and build to them faithfully. No LLM drift, no stale specs. |
+| [voice-kit](https://github.com/b1rdmania/voice-kit) | Builds your voice guide from your own AI history, so posts and messages sound like you. |
+
+### Building
+
+| Skill | |
+|---|---|
+| [mobbin-claude-rodeo](https://github.com/b1rdmania/mobbin-claude-rodeo) | Find real-app UI references on Mobbin and build to them faithfully. No LLM drift. |
+| [design-review-gate](https://github.com/b1rdmania/design-review-gate) | Scores UI 0–100 and tells you why it looks AI-generated, fixes ordered by score gain. |
 | [brand-skills](https://github.com/b1rdmania/claude-brand-skills) | Brand identity in Claude Code. Stops LLMs generating the average. |
+| [readme-generator](https://github.com/b1rdmania/readme-generator) | Reads a repo and writes its README in one pass. No placeholder sections. |
 | [Visible](https://github.com/b1rdmania/brand-audit) · [Live](https://brand-audits.vercel.app) | Tells you if AI can find you online. If not, fixes it. |
+
+### Trust & safety
+
+| Skill | |
+|---|---|
+| [notary](https://github.com/b1rdmania/notary) | Signed, human-approved receipts for any Claude skill. Who approved what, and proof nobody changed it. |
+| [skill-auditor](https://github.com/b1rdmania/claude-skill-auditor) | Audits other Claude Code skills. Yes, it's a bit human centipede. |
+| [skill-security-audit](https://github.com/b1rdmania/skill-security-audit) | Security-audits a skill before you run it. One Critical means unsafe. |
+
+### Life admin
+
+| Skill | |
+|---|---|
+| [portfolio-triage](https://github.com/b1rdmania/portfolio-triage) | Sorts every live project into This week / Watch / Park / Kill. |
+| [outreach-ledger](https://github.com/b1rdmania/outreach-ledger) | Tracks who owes you a reply and tells you when to chase. Never sends anything. |
+
+### Fun
+
+| Skill | |
+|---|---|
+| [tony-protocol](https://github.com/b1rdmania/tony-protocol) · [Product Hunt](https://www.producthunt.com/products/the-tony-protocol) | Run your sub-agents like a North Jersey crime family. Everyone gets one job, no receipt means no seat at the table, and Tony makes the call before Christopher finishes his screenplay. |
+| [hinge-profile-optimizer](https://github.com/b1rdmania/hinge-profile-optimizer) | Research-backed Hinge profile fixes. Screenshot audits, photo order, prompt rewrites, settings. My most-starred repo, which says something. |
+| [boss-whisperer](https://github.com/b1rdmania/boss-whisperer-skill) · [bosswhisperer.fun](https://bosswhisperer.fun) | Reverse-engineer your boss from the messages you already have. Munger meets Gottman. What they want, and how to manage up. |
+| [bro](https://github.com/b1rdmania/bro) | Claude lost the plot? Say bro. One line, no sorry, back to the actual question. |
+| [geocities-skill](https://github.com/b1rdmania/geocities-skill) | Builds authentically terrible 1998 GeoCities homepages. Starfields, hit counters, under-construction GIFs. |
+
+More skills → **[all repos](https://github.com/b1rdmania?tab=repositories)**
 
 ## Hackathons
 
