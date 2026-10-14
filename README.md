@@ -46,6 +46,8 @@ Most of the serious stuff is in private repos, soz.
 | [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
 | [voice-kit](https://github.com/b1rdmania/voice-kit) | Builds your voice guide from your own AI history, so posts and messages sound like you. |
 | [portfolio-triage](https://github.com/b1rdmania/portfolio-triage) | Sorts every live project into This week / Watch / Park / Kill. |
+| [readme-generator](https://github.com/b1rdmania/readme-generator) | Reads a repo and writes its README in one pass. No placeholder sections. |
+| [brand-skills](https://github.com/b1rdmania/claude-brand-skills) | Brand identity in Claude Code. Stops LLMs generating the average. Built back when agents couldn't design. |
 
 ### Fun
 
@@ -56,16 +58,6 @@ Most of the serious stuff is in private repos, soz.
 | [boss-whisperer](https://github.com/b1rdmania/boss-whisperer-skill) · [bosswhisperer.fun](https://bosswhisperer.fun) | Reverse-engineer your boss from the messages you already have. Munger meets Gottman. What they want, and how to manage up. |
 | [bro](https://github.com/b1rdmania/bro) | Claude lost the plot? Say bro. One line, no sorry, back to the actual question. |
 | [geocities-skill](https://github.com/b1rdmania/geocities-skill) | Builds authentically terrible 1998 GeoCities homepages. Starfields, hit counters, under-construction GIFs. |
-
-### Building
-
-| Skill | |
-|---|---|
-| [mobbin-claude-rodeo](https://github.com/b1rdmania/mobbin-claude-rodeo) | Find real-app UI references on Mobbin and build to them faithfully. No LLM drift. |
-| [design-review-gate](https://github.com/b1rdmania/design-review-gate) | Scores UI 0–100 and tells you why it looks AI-generated, fixes ordered by score gain. |
-| [brand-skills](https://github.com/b1rdmania/claude-brand-skills) | Brand identity in Claude Code. Stops LLMs generating the average. |
-| [readme-generator](https://github.com/b1rdmania/readme-generator) | Reads a repo and writes its README in one pass. No placeholder sections. |
-| [Visible](https://github.com/b1rdmania/brand-audit) · [Live](https://brand-audits.vercel.app) | Tells you if AI can find you online. If not, fixes it. |
 
 ### Trust & safety
 
