@@ -30,6 +30,7 @@ Most of the serious stuff is in private repos, soz.
 | [Legalise](https://github.com/b1rdmania/legalise) · [legalise.dev](https://legalise.dev) | Open-source governance for AI-assisted legal work. Signed actions, human supervision and an independently verifiable audit trail. |
 | [events-radar](https://github.com/b1rdmania/events-radar) | Field-marketing research from one line. Competitor events, market rankings, guest maps and gaps. |
 | [field-kit](https://github.com/b1rdmania/field-kit) | A 13-week field-marketing plan for scaling companies. Where to show up, who to meet and why. |
+| [outreach-ledger](https://github.com/b1rdmania/outreach-ledger) | Tracks who owes you a reply, spots responses and tells you when to chase. Doesn't send anything. |
 
 ## Claude skills
 
@@ -40,6 +41,7 @@ Most of the serious stuff is in private repos, soz.
 | [plain-english](https://github.com/b1rdmania/claude-plain-english-skill) | Kills LLM slop. Orwell '46 + Gowers '48 + the modern AI tic list. |
 | [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
 | [voice-kit](https://github.com/b1rdmania/voice-kit) | Builds your voice guide from your own AI history, so posts and messages sound like you. |
+| [portfolio-triage](https://github.com/b1rdmania/portfolio-triage) | Sorts every live project into This week / Watch / Park / Kill. |
 
 ### Building
 
@@ -58,13 +60,6 @@ Most of the serious stuff is in private repos, soz.
 | [notary](https://github.com/b1rdmania/notary) | Signed, human-approved receipts for any Claude skill. Who approved what, and proof nobody changed it. |
 | [skill-auditor](https://github.com/b1rdmania/claude-skill-auditor) | Audits other Claude Code skills. Yes, it's a bit human centipede. |
 | [skill-security-audit](https://github.com/b1rdmania/skill-security-audit) | Security-audits a skill before you run it. One Critical means unsafe. |
-
-### Life admin
-
-| Skill | |
-|---|---|
-| [portfolio-triage](https://github.com/b1rdmania/portfolio-triage) | Sorts every live project into This week / Watch / Park / Kill. |
-| [outreach-ledger](https://github.com/b1rdmania/outreach-ledger) | Tracks who owes you a reply and tells you when to chase. Never sends anything. |
 
 ### Fun
 
