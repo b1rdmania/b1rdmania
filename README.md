@@ -2,7 +2,7 @@
 
 [![Total stars](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fb1rdmania%2Fb1rdmania%2Fmain%2Fstars.json&style=flat-square&logo=github)](https://github.com/b1rdmania?tab=repositories&sort=stargazers) [![Followers](https://img.shields.io/github/followers/b1rdmania?label=followers&style=flat-square&logo=github&logoColor=white&color=555)](https://github.com/b1rdmania?tab=followers) ![Based in London](https://img.shields.io/badge/based%20in-London-555?style=flat-square) [![X](https://img.shields.io/badge/@b1rdmania-000?style=flat-square&logo=x&logoColor=white)](https://x.com/b1rdmania)
 
-Agent-first nerd, deep in the weeds of frontier tooling. Right now: market intelligence and due-diligence tooling for commercial teams.
+Agentic nerd, deep in the weeds of frontier tooling. Right now on market intelligence and due-diligence tooling for commercial teams.
 
 Think of me as a non-technical CTO who's probably better than your CTO.
 
