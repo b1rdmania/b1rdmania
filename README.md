@@ -31,9 +31,7 @@ Most of the serious work is in private repos, soz. These are some of the public 
 | [Groundnut](https://github.com/b1rdmania/groundnut) | Evidence checking for AI research reports. Snapshots sources, checks citations, flags unsupported claims and makes the whole thing replayable. |
 | [Legalise](https://github.com/b1rdmania/legalise) · [legalise.dev](https://legalise.dev) | Open-source governance for AI-assisted legal work. Signed actions, human supervision and an audit trail you can independently verify. |
 | [events-radar](https://github.com/b1rdmania/events-radar) | Field-marketing research from one line. Competitor events, market rankings, guest maps and the gaps nobody mentions. |
-| [field-agent](https://github.com/b1rdmania/field-agent) | Exa-powered research tools for sales teams. Companies, contacts and opportunities. No automated outreach. |
 | [field-kit](https://github.com/b1rdmania/field-kit) | A 13-week field-marketing plan for scaling companies. Where to show up, who to meet and why. |
-| [outreach-ledger](https://github.com/b1rdmania/outreach-ledger) | Tracks who owes you a reply, spots responses and tells you when to chase. Doesn't send anything. |
 
 ## Also live
 
