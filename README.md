@@ -18,6 +18,8 @@ Think of me as a non-technical CTO who's probably better than your CTO.
 
 **[Barbican Estate](https://github.com/b1rdmania/barbican-estate)** · [barbican.estate](https://barbican.estate) — Lettings sites are bad, so I reverse-engineered their APIs. Every Barbican flat for sale or rent, plus the history of each block.
 
+And this…
+
 <a href="https://wario.style"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
 
 ## Now: Research, intelligence & verification
