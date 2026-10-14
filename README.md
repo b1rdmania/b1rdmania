@@ -61,6 +61,8 @@ Plus a suite of statute-grounded skills across employment and litigation → **[
 
 ▸ **[GhostClaw](https://github.com/b1rdmania/ghostclaw)** · [ghostclaw.io](https://ghostclaw.io) — OpenClaw was a bad product with a beautiful idea in it. This is the idea, done properly: a Claude SDK agent that runs on your own machine. Bare metal, no sandbox, autonomous execution. Parked now Hermes owns the space.
 
+▸ **[The Pass](https://open-sandal-rkdw.here.now)** — a line check on a hospitality business's Xero books. Duplicate payments, cost drift, wage creep, customer churn. My Xero hackathon entry. It lost. If you do accounts in 2026, look at [Briefcase](https://briefcase.so) instead. · [source](https://github.com/b1rdmania/the-pass)
+
 ▸ **[Wario.Style](https://wario.style)** — type any song, get the 8-bit Game Boy version. Four channels of raw chiptune, zero samples. · [source](https://github.com/b1rdmania/motif)
 
 Music-tech ([Dig](https://app.dig.baby), [ghost-pattern](https://ghost-pattern.pages.dev)), a [generative London garden](https://github.com/b1rdmania/gardenos), a volunteer sign-up app ([Common](https://github.com/b1rdmania/common), [demo](https://fern-mortar-2sza.here.now/)), and DeFi ([WAR.MARKET](https://www.war.market), [compost](https://compost.fi)) → **[all repos](https://github.com/b1rdmania?tab=repositories)**
