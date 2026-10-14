@@ -10,13 +10,13 @@ Think of me as a non-technical CTO who's probably better than your CTO.
 
 ## A few things I've made
 
-**[GhostClaw](https://github.com/b1rdmania/ghostclaw)** · [ghostclaw.io](https://ghostclaw.io) — An autonomous AI agent that lives on your computer. OpenClaw was a bad product with a beautiful idea in it. This is the idea, done properly. Parked now Hermes owns the space.
+[**GhostClaw**](https://github.com/b1rdmania/ghostclaw) · [ghostclaw.io](https://ghostclaw.io) — A local autonomous AI agent. OpenClaw had a beautiful idea buried in a bad product. Built my own. Parked now Hermes owns the space.
 
-**[Wine Bore](https://github.com/b1rdmania/dig)** · [winebore.app](https://winebore.app) — A hyper-opinionated, narrow-domain LLM experiment. Ask a wine bore. He has taste, strong opinions and a book to back them up.
+[**Wine Bore**](https://github.com/b1rdmania/dig) · [winebore.app](https://winebore.app) — A hyper-opinionated wine LLM. Has strong opinions and a book to back them up.
 
-**[Wario.Style](https://github.com/b1rdmania/motif)** · [wario.style](https://wario.style) — Type any song, get the 8-bit Game Boy version.
+[**Wario.Style**](https://github.com/b1rdmania/motif) · [wario.style](https://wario.style) — Any song, as 8-bit Game Boy music.
 
-**[Barbican Estate](https://github.com/b1rdmania/barbican-estate)** · [barbican.estate](https://barbican.estate) — Lettings sites are bad, so I reverse-engineered their APIs. Every Barbican flat for sale or rent, plus the history of each block.
+[**Barbican Estate**](https://github.com/b1rdmania/barbican-estate) · [barbican.estate](https://barbican.estate) — Lettings sites are rubbish. Reverse-engineered APIs to list every Barbican flat, with history.
 
 And this…
 
