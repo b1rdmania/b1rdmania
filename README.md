@@ -10,7 +10,7 @@ Think of me as a non-technical CTO who's probably better than your CTO.
 
 ## A few things I've made
 
-[**GhostClaw**](https://github.com/b1rdmania/ghostclaw) · [ghostclaw.io](https://ghostclaw.io) — A local autonomous AI agent. OpenClaw had a beautiful idea buried in a bad product. Built my own. Parked now Hermes owns the space.
+[**GhostClaw**](https://github.com/b1rdmania/ghostclaw) · [ghostclaw.io](https://ghostclaw.io) · [Product Hunt](https://www.producthunt.com/products/ghostclaw-claws-gone-wild) — A local autonomous AI agent. OpenClaw had a beautiful idea buried in a bad product. Built my own. Parked now Hermes owns the space.
 
 [**Wine Bore**](https://github.com/b1rdmania/dig) · [winebore.app](https://winebore.app) — A hyper-opinionated wine LLM. Has strong opinions and a book to back them up.
 
@@ -92,7 +92,7 @@ Two wins, two losses.
 
 **[Record Bore](https://app.dig.baby/recordbore)** — The Wine Bore format for house and techno. Strong opinions, all from the record shelves.
 
-**[Wario.Style](https://github.com/b1rdmania/motif)** · [wario.style](https://wario.style) — Type any song, get the 8-bit Game Boy version.
+**[Wario.Style](https://github.com/b1rdmania/motif)** · [wario.style](https://wario.style) · [Product Hunt](https://www.producthunt.com/products/wario-style) — Type any song, get the 8-bit Game Boy version.
 
 **[Dig](https://app.dig.baby)** — House and techno, 1988–2008. Search it, chat to it or plug it into Claude.
 
