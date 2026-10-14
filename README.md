@@ -8,48 +8,28 @@ Built in legal AI, now focused on market intelligence, research and due-diligenc
 
 Think of me as a non-technical CTO who's probably better than your CTO.
 
-### A few things I've made
+## A few things I've made
 
-**[GhostClaw](https://github.com/b1rdmania/ghostclaw)** · [ghostclaw.io](https://ghostclaw.io) — An autonomous AI agent that lives on your computer. My most ambitious solo build.
+**[GhostClaw](https://github.com/b1rdmania/ghostclaw)** · [ghostclaw.io](https://ghostclaw.io) — An autonomous AI agent that lives on your computer. OpenClaw was a bad product with a beautiful idea in it. This is the idea, done properly. Parked now Hermes owns the space.
 
 **[Wine Bore](https://winebore.app)** — A hyper-opinionated, narrow-domain LLM experiment. Ask a wine bore. He has taste, strong opinions and a book to back them up.
 
 **[Wario.Style](https://wario.style)** — Type any song, get the 8-bit Game Boy version.
 
-🏆 **[WAR.MARKET](https://www.war.market)** — Winner, Hyperliquid London Community Hackathon (Jan 2026).
-
-<a href="https://wario.style"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
-
 ## Now: Research, intelligence & verification
 
-Spent six months building legal AI, then found that a lot of the research and verification machinery was useful elsewhere. Sold due-diligence tooling into a bioscience company. Now applying the same ideas to market intelligence, sales research and commercial teams.
+Spent six months building legal AI, contributing to [MikeOS](https://github.com/open-legal-products/mike) and exploring an AI-native law firm. Parked the firm, kept the tooling.
 
-Most of the serious work is in private repos, soz. These are some of the public bits.
+Sold a due-diligence engine into a bioscience company. Now building market intelligence and research tools for commercial teams.
+
+Most of the serious stuff is in private repos, soz.
 
 | Project | What it does |
 |---|---|
 | [Groundnut](https://github.com/b1rdmania/groundnut) | Evidence checking for AI research reports. Snapshots sources, checks citations, flags unsupported claims and makes the whole thing replayable. |
-| [Legalise](https://github.com/b1rdmania/legalise) · [legalise.dev](https://legalise.dev) | Open-source governance for AI-assisted legal work. Signed actions, human supervision and an audit trail you can independently verify. |
-| [events-radar](https://github.com/b1rdmania/events-radar) | Field-marketing research from one line. Competitor events, market rankings, guest maps and the gaps nobody mentions. |
+| [Legalise](https://github.com/b1rdmania/legalise) · [legalise.dev](https://legalise.dev) | Open-source governance for AI-assisted legal work. Signed actions, human supervision and an independently verifiable audit trail. |
+| [events-radar](https://github.com/b1rdmania/events-radar) | Field-marketing research from one line. Competitor events, market rankings, guest maps and gaps. |
 | [field-kit](https://github.com/b1rdmania/field-kit) | A 13-week field-marketing plan for scaling companies. Where to show up, who to meet and why. |
-
-## Also live
-
-▸ **[Record Bore](https://app.dig.baby/recordbore)** — the Wine Bore format, for house and techno. Sign in with Discogs and he reads your crates.
-
-▸ **[barbican.estate](https://barbican.estate)** — Every Barbican flat to let or for sale, in one place. Plus the history of each block. · [source](https://github.com/b1rdmania/barbican-estate)
-
-## Legal AI
-
-Six months down this rabbit hole. Contributed to [MikeOS](https://github.com/open-legal-products/mike), built supervised-autonomy infrastructure and explored launching an AI-native law firm. Decided not to launch the firm, kept building the tooling. Still interested in the field, just not pretending to be a lawyer.
-
-| Project | What it does |
-|---|---|
-| [notary](https://github.com/b1rdmania/notary) | Signed, human-approved execution receipts for AI agents. Who authorised what, what ran and proof it hasn't been tampered with. |
-| [pre-motion](https://github.com/b1rdmania/pre-motion) | Adversarial premortem for E&W civil litigation. Builds the strongest case, then tries to tear it apart. |
-| [kramer-v-ai](https://github.com/b1rdmania/kramer-v-ai) · [divorce.broker](https://divorce.broker) | AI-guided amicable divorce. A Nicole-and-Keith parody on top, serious supervised-autonomy tooling underneath. |
-
-Plus statute-grounded skills across employment and litigation → **[all repos](https://github.com/b1rdmania?tab=repositories)**
 
 ## Claude skills
 
@@ -68,8 +48,23 @@ Plus statute-grounded skills across employment and litigation → **[all repos](
 | [brand-skills](https://github.com/b1rdmania/claude-brand-skills) | Brand identity in Claude Code. Stops LLMs generating the average. |
 | [Visible](https://github.com/b1rdmania/brand-audit) · [Live](https://brand-audits.vercel.app) | Tells you if AI can find you online. If not, fixes it. |
 
-## Also
+## Hackathons
 
-▸ **[The Pass](https://open-sandal-rkdw.here.now)** — a line check on a hospitality business's Xero books. Duplicate payments, cost drift, wage creep, customer churn. My Xero hackathon entry. It lost. If you do accounts in 2026, look at [Briefcase](https://briefcase.so) instead. · [source](https://github.com/b1rdmania/the-pass)
+Two wins, two losses.
 
-Music-tech ([Dig](https://app.dig.baby), [ghost-pattern](https://ghost-pattern.pages.dev)), a [generative London garden](https://github.com/b1rdmania/gardenos), a volunteer sign-up app ([Common](https://github.com/b1rdmania/common), [demo](https://fern-mortar-2sza.here.now/)), and DeFi ([WAR.MARKET](https://www.war.market), [compost](https://compost.fi)) → **[all repos](https://github.com/b1rdmania?tab=repositories)**
+| Project | Result | What it does |
+|---|---|---|
+| [WAR.MARKET](https://www.war.market) | 🏆 Won · Hyperliquid London | Trade narratives, not tickers. One-click geopolitical trading on Pear Protocol. |
+| [Sound Match](https://soundmatch-audio-finder.vercel.app) | 🏆 Won | Upload a track, find royalty-free music that sounds like it. |
+| [Divorce Broker](https://github.com/b1rdmania/kramer-v-ai) · [divorce.broker](https://divorce.broker) | Lost · Lawhive | AI-guided amicable divorce. A Nicole-and-Keith parody with serious tooling underneath. |
+| [The Pass](https://open-sandal-rkdw.here.now) | Lost · Xero | Line check on hospitality accounts. Duplicate payments, cost drift, wage creep and customer churn. If you do accounts in 2026, look at [Briefcase](https://briefcase.so) instead. |
+
+## Other things I've built
+
+**[Record Bore](https://app.dig.baby/recordbore)** — The Wine Bore format for house and techno. Strong opinions, all from the record shelves.
+
+**[barbican.estate](https://barbican.estate)** — Every Barbican flat for sale or rent, plus the history of each block.
+
+**[Dig](https://app.dig.baby)** — House and techno, 1988–2008. Search it, chat to it or plug it into Claude.
+
+Music-tech, gardens, volunteering apps and DeFi → **[all repos](https://github.com/b1rdmania?tab=repositories)**
