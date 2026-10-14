@@ -54,7 +54,7 @@ Two wins, two losses.
 
 | Project | Result | What it does |
 |---|---|---|
-| [WAR.MARKET](https://www.war.market) | 🏆 Won · Hyperliquid London | Trade narratives, not tickers. One-click geopolitical trading on Pear Protocol. |
+| [WAR.MARKET](https://www.war.market) | 🏆 Won · Hyperliquid London | Trade narratives, not tickers. One-click geopolitical trading on Hyperliquid. |
 | [Sound Match](https://soundmatch-audio-finder.vercel.app) | 🏆 Won | Upload a track, find royalty-free music that sounds like it. |
 | [Divorce Broker](https://github.com/b1rdmania/kramer-v-ai) · [divorce.broker](https://divorce.broker) | Lost · Lawhive | AI-guided amicable divorce. A Nicole-and-Keith parody with serious tooling underneath. |
 | [The Pass](https://open-sandal-rkdw.here.now) | Lost · Xero | Line check on hospitality accounts. Duplicate payments, cost drift, wage creep and customer churn. If you do accounts in 2026, look at [Briefcase](https://briefcase.so) instead. |
