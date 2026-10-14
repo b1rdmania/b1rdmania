@@ -14,8 +14,6 @@ Think of me as a non-technical CTO who's probably better than your CTO.
 
 [**Wine Bore**](https://github.com/b1rdmania/dig) · [winebore.app](https://winebore.app) — A hyper-opinionated wine LLM. Has strong opinions and a book to back them up.
 
-[**Wario.Style**](https://github.com/b1rdmania/motif) · [wario.style](https://wario.style) — Any song, as 8-bit Game Boy music.
-
 [**Barbican Estate**](https://github.com/b1rdmania/barbican-estate) · [barbican.estate](https://barbican.estate) — Lettings sites are rubbish. Reverse-engineered APIs to list every Barbican flat, with history.
 
 And this…
@@ -93,6 +91,8 @@ Two wins, two losses.
 ## Other things I've built
 
 **[Record Bore](https://app.dig.baby/recordbore)** — The Wine Bore format for house and techno. Strong opinions, all from the record shelves.
+
+**[Wario.Style](https://github.com/b1rdmania/motif)** · [wario.style](https://wario.style) — Type any song, get the 8-bit Game Boy version.
 
 **[Dig](https://app.dig.baby)** — House and techno, 1988–2008. Search it, chat to it or plug it into Claude.
 
