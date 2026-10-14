@@ -2,7 +2,7 @@
 
 [![Total stars](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fb1rdmania%2Fb1rdmania%2Fmain%2Fstars.json&style=flat-square&logo=github)](https://github.com/b1rdmania?tab=repositories&sort=stargazers) [![Followers](https://img.shields.io/github/followers/b1rdmania?label=followers&style=flat-square&logo=github&logoColor=white&color=555)](https://github.com/b1rdmania?tab=followers) ![Based in London](https://img.shields.io/badge/based%20in-London-555?style=flat-square) [![X](https://img.shields.io/badge/@b1rdmania-000?style=flat-square&logo=x&logoColor=white)](https://x.com/b1rdmania)
 
-Building in AI. Right now: market intelligence layers for commercial teams.
+Agent-first nerd, deep in the weeds of frontier tooling. Right now: market intelligence and due-diligence tooling for commercial teams.
 
 I build the data layer as well as the analysis. Replicated datasets, cross-source APIs, MCP servers, then agents on top. Findings that each trace to a real source, or an honest account of what couldn't be established.
 
@@ -37,7 +37,7 @@ I build the data layer as well as the analysis. Replicated datasets, cross-sourc
 | [plain-english](https://github.com/b1rdmania/claude-plain-english-skill) | Kills LLM slop. Orwell '46 + Gowers '48 + the modern AI tic list. |
 | [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
 | [readme-generator](https://github.com/b1rdmania/readme-generator) | Reads a repo and writes its README in one pass. No placeholder sections. |
-| [tony-protocol](https://github.com/b1rdmania/tony-protocol) | Run your sub-agents like a North Jersey crime family. Get a decision before Christopher writes another screenplay. |
+| [tony-protocol](https://github.com/b1rdmania/tony-protocol) · [Product Hunt](https://www.producthunt.com/products/the-tony-protocol) | Run your sub-agents like a North Jersey crime family. Get a decision before Christopher writes another screenplay. |
 | [skill-auditor](https://github.com/b1rdmania/claude-skill-auditor) | Audits other Claude Code skills. Yes, it's a bit human centipede. |
 | [skill-security-audit](https://github.com/b1rdmania/skill-security-audit) | Security-audits a skill before you run it. Severity-governed: one Critical means unsafe. |
 | [mobbin-claude-rodeo](https://github.com/b1rdmania/mobbin-claude-rodeo) | Find real-app UI references on Mobbin and build to them faithfully. No LLM drift, no stale specs. |
