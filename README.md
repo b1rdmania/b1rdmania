@@ -4,7 +4,7 @@
 
 Agent-first nerd, deep in the weeds of frontier tooling.
 
-Built in legal AI, now focused on market intelligence, research and due-diligence tooling. Some of it even has paying customers.
+Built in legal AI, now focused on market intelligence, research and due-diligence tooling.
 
 Think of me as a non-technical CTO who's probably better than your CTO.
 
