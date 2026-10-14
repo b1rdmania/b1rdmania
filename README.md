@@ -2,17 +2,32 @@
 
 [![Total stars](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fb1rdmania%2Fb1rdmania%2Fmain%2Fstars.json&style=flat-square&logo=github)](https://github.com/b1rdmania?tab=repositories&sort=stargazers) [![Followers](https://img.shields.io/github/followers/b1rdmania?label=followers&style=flat-square&logo=github&logoColor=white&color=555)](https://github.com/b1rdmania?tab=followers) ![Based in London](https://img.shields.io/badge/based%20in-London-555?style=flat-square) [![X](https://img.shields.io/badge/@b1rdmania-000?style=flat-square&logo=x&logoColor=white)](https://x.com/b1rdmania)
 
-Agentic nerd, deep in the weeds of frontier tooling. Right now on market intelligence and due-diligence tooling for commercial teams.
+Agent-first nerd, deep in the weeds of frontier tooling.
+
+Built in legal AI, now focused on market intelligence, research and due-diligence tooling. Some of it even has paying customers.
 
 Think of me as a non-technical CTO who's probably better than your CTO.
 
-Also built some cool dumb fun stuff + skills.
-
-🏆 WAR.MARKET — winner, HyperLiquid London Community Hackathon (Jan 2026)
+🏆 **[WAR.MARKET](https://www.war.market)** — winner, Hyperliquid London Community Hackathon (Jan 2026)
 
 <a href="https://wario.style"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
 
-## Now
+## Now: Research, intelligence & verification
+
+Spent six months building legal AI, then found that a lot of the research and verification machinery was useful elsewhere. Sold due-diligence tooling into a bioscience company. Now applying the same ideas to market intelligence, sales research and commercial teams.
+
+Most of the serious work is in private repos, soz. These are some of the public bits.
+
+| Project | What it does |
+|---|---|
+| [Groundnut](https://github.com/b1rdmania/groundnut) | Evidence checking for AI research reports. Snapshots sources, checks citations, flags unsupported claims and makes the whole thing replayable. |
+| [Legalise](https://github.com/b1rdmania/legalise) · [legalise.dev](https://legalise.dev) | Open-source governance for AI-assisted legal work. Signed actions, human supervision and an audit trail you can independently verify. |
+| [events-radar](https://github.com/b1rdmania/events-radar) | Field-marketing research from one line. Competitor events, market rankings, guest maps and the gaps nobody mentions. |
+| [field-agent](https://github.com/b1rdmania/field-agent) | Exa-powered research tools for sales teams. Companies, contacts and opportunities. No automated outreach. |
+| [field-kit](https://github.com/b1rdmania/field-kit) | A 13-week field-marketing plan for scaling companies. Where to show up, who to meet and why. |
+| [outreach-ledger](https://github.com/b1rdmania/outreach-ledger) | Tracks who owes you a reply, spots responses and tells you when to chase. Doesn't send anything. |
+
+## Also live
 
 ▸ **[Wine Bore](https://winebore.app)** — ask a wine bore. He has opinions, and each one comes from the book under him.
 
@@ -20,14 +35,17 @@ Also built some cool dumb fun stuff + skills.
 
 ▸ **[barbican.estate](https://barbican.estate)** — Every Barbican flat to let or for sale, in one place. Plus the history of each block. · [source](https://github.com/b1rdmania/barbican-estate)
 
-## Sales & market intelligence
+## Legal AI
 
-| Project | |
-|---------|--|
-| [events-radar](https://github.com/b1rdmania/events-radar) | Field-marketing research packs from one line. Competitor event radars, market ranking, guest maps. Sourced, with a gaps section. |
-| [field-agent](https://github.com/b1rdmania/field-agent) | The original, built on Exa. Five research tools that work from the sales team's list. None of them contact anyone. |
-| [field-kit](https://github.com/b1rdmania/field-kit) | An event plan for a scaling company: competitors, where to show up, who to meet, a 13-week calendar. Skill for Claude, ChatGPT, Codex. |
-| [outreach-ledger](https://github.com/b1rdmania/outreach-ledger) | Tracks everyone you're waiting to hear back from. Tells you when to chase, spots replies in your inbox, never sends anything itself. |
+Six months down this rabbit hole. Contributed to [MikeOS](https://github.com/open-legal-products/mike), built supervised-autonomy infrastructure and explored launching an AI-native law firm. Decided not to launch the firm, kept building the tooling. Still interested in the field, just not pretending to be a lawyer.
+
+| Project | What it does |
+|---|---|
+| [notary](https://github.com/b1rdmania/notary) | Signed, human-approved execution receipts for AI agents. Who authorised what, what ran and proof it hasn't been tampered with. |
+| [pre-motion](https://github.com/b1rdmania/pre-motion) | Adversarial premortem for E&W civil litigation. Builds the strongest case, then tries to tear it apart. |
+| [kramer-v-ai](https://github.com/b1rdmania/kramer-v-ai) · [divorce.broker](https://divorce.broker) | AI-guided amicable divorce. A Nicole-and-Keith parody on top, serious supervised-autonomy tooling underneath. |
+
+Plus statute-grounded skills across employment and litigation → **[all repos](https://github.com/b1rdmania?tab=repositories)**
 
 ## Claude skills
 
@@ -45,19 +63,6 @@ Also built some cool dumb fun stuff + skills.
 | [mobbin-claude-rodeo](https://github.com/b1rdmania/mobbin-claude-rodeo) | Find real-app UI references on Mobbin and build to them faithfully. No LLM drift, no stale specs. |
 | [brand-skills](https://github.com/b1rdmania/claude-brand-skills) | Brand identity in Claude Code. Stops LLMs generating the average. |
 | [Visible](https://github.com/b1rdmania/brand-audit) · [Live](https://brand-audits.vercel.app) | Tells you if AI can find you online. If not, fixes it. |
-
-## Legal AI
-
-A supervised-autonomy workspace and statute-grounded skills that plug into it. Everything here drafts for a solicitor to verify, names the framework it works under, and surfaces the trap before it bites.
-
-| Project | |
-|---------|--|
-| [legalise](https://github.com/b1rdmania/legalise) · [legalise.dev](https://legalise.dev) | The workspace. Open-source supervised-autonomy register for UK legal work — every action signed, supervised, provable. |
-| [notary](https://github.com/b1rdmania/notary) | Signed, human-approved execution receipts for any Claude skill. Proof of what an AI was allowed to do, and who approved it, that nobody can forge without the key. Drop-in MCP server, no infra. |
-| [pre-motion](https://github.com/b1rdmania/pre-motion) | Adversarial premortem for E&W civil litigation. Builds the strongest case, then attacks it from four angles to find where it loses. |
-| [kramer-v-ai](https://github.com/b1rdmania/kramer-v-ai) · [divorce.broker](https://divorce.broker) | AI-guided amicable divorce settlement, money picture to filing pack, human in the loop throughout. A Nicole-and-Keith parody on top, a serious supervised-autonomy demo underneath. |
-
-Plus a suite of statute-grounded skills across employment and litigation → **[all repos](https://github.com/b1rdmania?tab=repositories)**
 
 ## Also
 
