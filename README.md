@@ -16,7 +16,7 @@ Think of me as a non-technical CTO who's probably better than your CTO.
 
 **[Wario.Style](https://github.com/b1rdmania/motif)** · [wario.style](https://wario.style) — Type any song, get the 8-bit Game Boy version.
 
-**[Barbican Estate](https://github.com/b1rdmania/barbican-estate)** · [barbican.estate](https://barbican.estate) — I don't like bad websites. So I reverse-engineered the lettings agents' APIs and built this: every Barbican flat for sale or rent, plus the history of each block.
+**[Barbican Estate](https://github.com/b1rdmania/barbican-estate)** · [barbican.estate](https://barbican.estate) — Lettings sites are bad, so I reverse-engineered their APIs. Every Barbican flat for sale or rent, plus the history of each block.
 
 <a href="https://wario.style"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
 
