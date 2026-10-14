@@ -4,8 +4,6 @@
 
 Agent-first nerd, deep in the weeds of frontier tooling. Right now: market intelligence and due-diligence tooling for commercial teams.
 
-I build the data layer as well as the analysis. Replicated datasets, cross-source APIs, MCP servers, then agents on top. Findings that each trace to a real source, or an honest account of what couldn't be established.
-
 🏆 WAR.MARKET — winner, HyperLiquid London Community Hackathon (Jan 2026)
 
 <a href="https://wario.style"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
