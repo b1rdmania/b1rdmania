@@ -6,6 +6,8 @@ Agentic nerd, deep in the weeds of frontier tooling. Right now on market intelli
 
 Think of me as a non-technical CTO who's probably better than your CTO.
 
+Also built some cool dumb fun stuff + skills.
+
 🏆 WAR.MARKET — winner, HyperLiquid London Community Hackathon (Jan 2026)
 
 <a href="https://wario.style"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
