@@ -12,9 +12,13 @@ Think of me as a non-technical CTO who's probably better than your CTO.
 
 **[GhostClaw](https://github.com/b1rdmania/ghostclaw)** · [ghostclaw.io](https://ghostclaw.io) — An autonomous AI agent that lives on your computer. OpenClaw was a bad product with a beautiful idea in it. This is the idea, done properly. Parked now Hermes owns the space.
 
-**[Wine Bore](https://winebore.app)** — A hyper-opinionated, narrow-domain LLM experiment. Ask a wine bore. He has taste, strong opinions and a book to back them up.
+**[Wine Bore](https://github.com/b1rdmania/dig)** · [winebore.app](https://winebore.app) — A hyper-opinionated, narrow-domain LLM experiment. Ask a wine bore. He has taste, strong opinions and a book to back them up.
 
-**[Wario.Style](https://wario.style)** — Type any song, get the 8-bit Game Boy version.
+**[Wario.Style](https://github.com/b1rdmania/motif)** · [wario.style](https://wario.style) — Type any song, get the 8-bit Game Boy version.
+
+**[Barbican Estate](https://github.com/b1rdmania/barbican-estate)** · [barbican.estate](https://barbican.estate) — I don't like bad websites. So I reverse-engineered the lettings agents' APIs and built this: every Barbican flat for sale or rent, plus the history of each block.
+
+<a href="https://wario.style"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
 
 ## Now: Research, intelligence & verification
 
@@ -87,8 +91,6 @@ Two wins, two losses.
 ## Other things I've built
 
 **[Record Bore](https://app.dig.baby/recordbore)** — The Wine Bore format for house and techno. Strong opinions, all from the record shelves.
-
-**[barbican.estate](https://barbican.estate)** — Every Barbican flat for sale or rent, plus the history of each block.
 
 **[Dig](https://app.dig.baby)** — House and techno, 1988–2008. Search it, chat to it or plug it into Claude.
 
