@@ -16,15 +16,7 @@ Plus some funny stuff.
 
 [**Barbican Estate**](https://github.com/b1rdmania/barbican-estate) · [barbican.estate](https://barbican.estate) — Lettings sites are rubbish. Reverse-engineered APIs to list every Barbican flat, with history.
 
-And this…
-
 <a href="https://wario.style"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
-
-## Now
-
-Six months in legal AI, contributing to [MikeOS](https://github.com/open-legal-products/mike) and exploring an AI-native law firm. Parked the firm, kept the tooling.
-
-Sold a due-diligence engine into a bioscience company. Now building market intelligence and research tools for commercial teams. Most of that is in private repos, soz.
 
 ## Tools
 
