@@ -4,9 +4,9 @@
 
 Agent-first nerd, deep in the weeds of frontier tooling.
 
-Built in legal AI, now focused on market intelligence, research and due-diligence tooling.
+Everything on this page is the same job. Find the gap, build it, name it, put it live. Some of it happens to be funny.
 
-Think of me as a non-technical CTO who's probably better than your CTO.
+Full MVPs in three or four days, on my own, from the brief to the launch post.
 
 ## A few things I've made
 
@@ -20,54 +20,43 @@ And this…
 
 <a href="https://wario.style"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
 
-## Now: Research, intelligence & verification
+## Now
 
-Spent six months building legal AI, contributing to [MikeOS](https://github.com/open-legal-products/mike) and exploring an AI-native law firm. Parked the firm, kept the tooling.
+Six months in legal AI, contributing to [MikeOS](https://github.com/open-legal-products/mike) and exploring an AI-native law firm. Parked the firm, kept the tooling.
 
-Sold a due-diligence engine into a bioscience company. Now building market intelligence and research tools for commercial teams.
+Sold a due-diligence engine into a bioscience company. Now building market intelligence and research tools for commercial teams. Most of that is in private repos, soz.
 
-Most of the serious stuff is in private repos, soz.
+## Tools
 
 | Project | What it does |
 |---|---|
 | [Groundnut](https://github.com/b1rdmania/groundnut) | Evidence checking for AI research reports. Snapshots sources, checks citations, flags unsupported claims and makes the whole thing replayable. |
+| [Dig](https://app.dig.baby) | House and techno, 1988–2008. Search it, chat to it or plug it into Claude. |
 | [Legalise](https://github.com/b1rdmania/legalise) · [legalise.dev](https://legalise.dev) | Open-source governance for AI-assisted legal work. Signed actions, human supervision and an independently verifiable audit trail. |
+| [Record Bore](https://app.dig.baby/recordbore) | The Wine Bore format for house and techno. Strong opinions, all from the record shelves. |
 | [events-radar](https://github.com/b1rdmania/events-radar) | Field-marketing research from one line. Competitor events, market rankings, guest maps and gaps. |
+| [Wario.Style](https://github.com/b1rdmania/motif) · [wario.style](https://wario.style) · [Product Hunt](https://www.producthunt.com/products/wario-style) | Type any song, get the 8-bit Game Boy version. |
 | [field-kit](https://github.com/b1rdmania/field-kit) | A 13-week field-marketing plan for scaling companies. Where to show up, who to meet and why. |
 | [outreach-ledger](https://github.com/b1rdmania/outreach-ledger) | Tracks who owes you a reply, spots responses and tells you when to chase. Doesn't send anything. |
 
-## Claude Skills / GPT Plugins
+## Claude Skills
 
-### Thinking & writing
-
-| Skill | |
-|---|---|
-| [plain-english](https://github.com/b1rdmania/claude-plain-english-skill) | Kills LLM slop. Orwell '46 + Gowers '48 + the modern AI tic list. |
-| [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
-| [voice-kit](https://github.com/b1rdmania/voice-kit) | Builds your voice guide from your own AI history, so posts and messages sound like you. |
-| [portfolio-triage](https://github.com/b1rdmania/portfolio-triage) | Sorts every live project into This week / Watch / Park / Kill. |
-| [readme-generator](https://github.com/b1rdmania/readme-generator) | Reads a repo and writes its README in one pass. No placeholder sections. |
-| [brand-skills](https://github.com/b1rdmania/claude-brand-skills) | Brand identity in Claude Code. Stops LLMs generating the average. Built back when agents couldn't design. |
-
-### Fun
-
-| Skill | |
+| Skill | What it does |
 |---|---|
 | [tony-protocol](https://github.com/b1rdmania/tony-protocol) · [Product Hunt](https://www.producthunt.com/products/the-tony-protocol) | Run your sub-agents like a North Jersey crime family. Everyone gets one job, no receipt means no seat at the table, and Tony makes the call before Christopher finishes his screenplay. |
+| [plain-english](https://github.com/b1rdmania/claude-plain-english-skill) | Kills LLM slop. Orwell '46 + Gowers '48 + the modern AI tic list. |
 | [hinge-profile-optimizer](https://github.com/b1rdmania/hinge-profile-optimizer) | Research-backed Hinge profile fixes. Screenshot audits, photo order, prompt rewrites, settings. My most-starred repo, which says something. |
-| [boss-whisperer](https://github.com/b1rdmania/boss-whisperer-skill) · [bosswhisperer.fun](https://bosswhisperer.fun) | Reverse-engineer your boss from the messages you already have. Munger meets Gottman. What they want, and how to manage up. |
-| [bro](https://github.com/b1rdmania/bro) | Claude lost the plot? Say bro. One line, no sorry, back to the actual question. |
-| [geocities-skill](https://github.com/b1rdmania/geocities-skill) | Builds authentically terrible 1998 GeoCities homepages. Starfields, hit counters, under-construction GIFs. |
-
-### Trust & safety
-
-| Skill | |
-|---|---|
 | [notary](https://github.com/b1rdmania/notary) | Signed, human-approved receipts for any Claude skill. Who approved what, and proof nobody changed it. |
-| [skill-auditor](https://github.com/b1rdmania/claude-skill-auditor) | Audits other Claude Code skills. Yes, it's a bit human centipede. |
+| [boss-whisperer](https://github.com/b1rdmania/boss-whisperer-skill) · [bosswhisperer.fun](https://bosswhisperer.fun) | Reverse-engineer your boss from the messages you already have. Munger meets Gottman. What they want, and how to manage up. |
+| [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
+| [bro](https://github.com/b1rdmania/bro) | Claude lost the plot? Say bro. One line, no sorry, back to the actual question. |
+| [voice-kit](https://github.com/b1rdmania/voice-kit) | Builds your voice guide from your own AI history, so posts and messages sound like you. |
 | [skill-security-audit](https://github.com/b1rdmania/skill-security-audit) | Security-audits a skill before you run it. One Critical means unsafe. |
-
-More skills → **[all repos](https://github.com/b1rdmania?tab=repositories)**
+| [geocities-skill](https://github.com/b1rdmania/geocities-skill) | Builds authentically terrible 1998 GeoCities homepages. Starfields, hit counters, under-construction GIFs. |
+| [portfolio-triage](https://github.com/b1rdmania/portfolio-triage) | Sorts every live project into This week / Watch / Park / Kill. |
+| [skill-auditor](https://github.com/b1rdmania/claude-skill-auditor) | Audits other Claude Code skills. Yes, it's a bit human centipede. |
+| [readme-generator](https://github.com/b1rdmania/readme-generator) | Reads a repo and writes its README in one pass. No placeholder sections. |
+| [brand-skills](https://github.com/b1rdmania/claude-brand-skills) | Brand identity in Claude Code. Stops LLMs generating the average. Built back when agents couldn't design. |
 
 ## Hackathons
 
@@ -79,13 +68,5 @@ Two wins, two losses.
 | [Sound Match](https://soundmatch-audio-finder.vercel.app) | 🏆 Won | Upload a track, find royalty-free music that sounds like it. |
 | [Divorce Broker](https://github.com/b1rdmania/kramer-v-ai) · [divorce.broker](https://divorce.broker) | Lost · Lawhive | AI-guided amicable divorce. A Nicole-and-Keith parody with serious tooling underneath. |
 | [The Pass](https://open-sandal-rkdw.here.now) | Lost · Xero | Line check on hospitality accounts. Duplicate payments, cost drift, wage creep and customer churn. If you do accounts in 2026, look at [Briefcase](https://briefcase.so) instead. |
-
-## Other things I've built
-
-**[Record Bore](https://app.dig.baby/recordbore)** — The Wine Bore format for house and techno. Strong opinions, all from the record shelves.
-
-**[Wario.Style](https://github.com/b1rdmania/motif)** · [wario.style](https://wario.style) · [Product Hunt](https://www.producthunt.com/products/wario-style) — Type any song, get the 8-bit Game Boy version.
-
-**[Dig](https://app.dig.baby)** — House and techno, 1988–2008. Search it, chat to it or plug it into Claude.
 
 Music-tech, gardens, volunteering apps and DeFi → **[all repos](https://github.com/b1rdmania?tab=repositories)**
