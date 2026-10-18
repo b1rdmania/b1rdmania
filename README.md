@@ -6,7 +6,7 @@ Agent-first nerd, deep in the weeds of frontier tooling.
 
 Built in legal AI, now market intelligence and due-diligence tooling for commercial teams.
 
-Half of this is a joke. All of it ships.
+Plus some funny stuff.
 
 ## A few things I've made
 
