@@ -6,7 +6,7 @@ Agent-first nerd, deep in the weeds of frontier tooling.
 
 Built in legal AI, now market intelligence and due-diligence tooling for commercial teams.
 
-Full MVPs in three or four days. Half of it is a joke. All of it ships.
+Half of this is a joke. All of it ships.
 
 ## A few things I've made
 
