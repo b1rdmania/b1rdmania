@@ -35,20 +35,20 @@ Plus some funny stuff.
 
 | Skill | What it does |
 |---|---|
-| [tony-protocol](https://github.com/b1rdmania/tony-protocol) · [Product Hunt](https://www.producthunt.com/products/the-tony-protocol) | Run your sub-agents like a North Jersey crime family. Everyone gets one job, no receipt means no seat at the table, and Tony makes the call before Christopher finishes his screenplay. |
 | [plain-english](https://github.com/b1rdmania/claude-plain-english-skill) | Kills LLM slop. Orwell '46 + Gowers '48 + the modern AI tic list. |
-| [hinge-profile-optimizer](https://github.com/b1rdmania/hinge-profile-optimizer) | Research-backed Hinge profile fixes. Screenshot audits, photo order, prompt rewrites, settings. My most-starred repo, which says something. |
-| [notary](https://github.com/b1rdmania/notary) | Signed, human-approved receipts for any Claude skill. Who approved what, and proof nobody changed it. |
-| [boss-whisperer](https://github.com/b1rdmania/boss-whisperer-skill) · [bosswhisperer.fun](https://bosswhisperer.fun) | Reverse-engineer your boss from the messages you already have. Munger meets Gottman. What they want, and how to manage up. |
 | [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
-| [bro](https://github.com/b1rdmania/bro) | Claude lost the plot? Say bro. One line, no sorry, back to the actual question. |
 | [voice-kit](https://github.com/b1rdmania/voice-kit) | Builds your voice guide from your own AI history, so posts and messages sound like you. |
-| [skill-security-audit](https://github.com/b1rdmania/skill-security-audit) | Security-audits a skill before you run it. One Critical means unsafe. |
-| [geocities-skill](https://github.com/b1rdmania/geocities-skill) | Builds authentically terrible 1998 GeoCities homepages. Starfields, hit counters, under-construction GIFs. |
 | [portfolio-triage](https://github.com/b1rdmania/portfolio-triage) | Sorts every live project into This week / Watch / Park / Kill. |
-| [skill-auditor](https://github.com/b1rdmania/claude-skill-auditor) | Audits other Claude Code skills. Yes, it's a bit human centipede. |
 | [readme-generator](https://github.com/b1rdmania/readme-generator) | Reads a repo and writes its README in one pass. No placeholder sections. |
 | [brand-skills](https://github.com/b1rdmania/claude-brand-skills) | Brand identity in Claude Code. Stops LLMs generating the average. Built back when agents couldn't design. |
+| [tony-protocol](https://github.com/b1rdmania/tony-protocol) · [Product Hunt](https://www.producthunt.com/products/the-tony-protocol) | Run your sub-agents like a North Jersey crime family. Everyone gets one job, no receipt means no seat at the table, and Tony makes the call before Christopher finishes his screenplay. |
+| [hinge-profile-optimizer](https://github.com/b1rdmania/hinge-profile-optimizer) | Research-backed Hinge profile fixes. Screenshot audits, photo order, prompt rewrites, settings. My most-starred repo, which says something. |
+| [boss-whisperer](https://github.com/b1rdmania/boss-whisperer-skill) · [bosswhisperer.fun](https://bosswhisperer.fun) | Reverse-engineer your boss from the messages you already have. Munger meets Gottman. What they want, and how to manage up. |
+| [bro](https://github.com/b1rdmania/bro) | Claude lost the plot? Say bro. One line, no sorry, back to the actual question. |
+| [geocities-skill](https://github.com/b1rdmania/geocities-skill) | Builds authentically terrible 1998 GeoCities homepages. Starfields, hit counters, under-construction GIFs. |
+| [notary](https://github.com/b1rdmania/notary) | Signed, human-approved receipts for any Claude skill. Who approved what, and proof nobody changed it. |
+| [skill-auditor](https://github.com/b1rdmania/claude-skill-auditor) | Audits other Claude Code skills. Yes, it's a bit human centipede. |
+| [skill-security-audit](https://github.com/b1rdmania/skill-security-audit) | Security-audits a skill before you run it. One Critical means unsafe. |
 
 ## Hackathons
 
