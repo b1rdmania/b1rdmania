@@ -4,9 +4,9 @@
 
 Agent-first nerd, deep in the weeds of frontier tooling.
 
-Everything on this page is the same job. Find the gap, build it, name it, put it live. Some of it happens to be funny.
+Built in legal AI, now market intelligence and due-diligence tooling for commercial teams.
 
-Full MVPs in three or four days, on my own, from the brief to the launch post.
+Full MVPs in three or four days. Half of it is a joke. All of it ships.
 
 ## A few things I've made
 
