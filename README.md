@@ -10,11 +10,9 @@ Plus some funny stuff.
 
 ## A few things I've made
 
-[**GhostClaw**](https://github.com/b1rdmania/ghostclaw) · [ghostclaw.io](https://ghostclaw.io) · [Product Hunt](https://www.producthunt.com/products/ghostclaw-claws-gone-wild) — A local autonomous AI agent. OpenClaw had a beautiful idea buried in a bad product. Built my own. Parked now Hermes owns the space.
+[**GhostClaw**](https://github.com/b1rdmania/ghostclaw) · [ghostclaw.io](https://ghostclaw.io) · [Product Hunt](https://www.producthunt.com/products/ghostclaw-claws-gone-wild) — OpenClaw had a beautiful idea buried in a bad product. Built my own. Parked now Hermes owns the space.
 
-[**Wine Bore**](https://github.com/b1rdmania/dig) · [winebore.app](https://winebore.app) — A hyper-opinionated wine LLM. Has strong opinions and a book to back them up.
-
-[**Barbican Estate**](https://github.com/b1rdmania/barbican-estate) · [barbican.estate](https://barbican.estate) — Lettings sites are rubbish. Reverse-engineered APIs to list every Barbican flat, with history.
+[**Wine Bore**](https://github.com/b1rdmania/dig) · [winebore.app](https://winebore.app) — A hyper-opinionated wine LLM.
 
 <a href="https://wario.style"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
 
@@ -26,6 +24,7 @@ Plus some funny stuff.
 | [Dig](https://app.dig.baby) | House and techno, 1988–2008. Search it, chat to it or plug it into Claude. |
 | [Legalise](https://github.com/b1rdmania/legalise) · [legalise.dev](https://legalise.dev) | Open-source governance for AI-assisted legal work. Signed actions, human supervision and an independently verifiable audit trail. |
 | [Boss Whisperer](https://github.com/b1rdmania/boss-whisperer-skill) · [bosswhisperer.fun](https://bosswhisperer.fun) | Reverse-engineer your boss from the messages you already have. Munger meets Gottman. What they want, and how to manage up. |
+| [Barbican Estate](https://github.com/b1rdmania/barbican-estate) · [barbican.estate](https://barbican.estate) | Lettings sites are rubbish. Reverse-engineered APIs to list every Barbican flat, with history. |
 | [Record Bore](https://app.dig.baby/recordbore) | The Wine Bore format for house and techno. Strong opinions, all from the record shelves. |
 | [events-radar](https://github.com/b1rdmania/events-radar) | Field-marketing research from one line. Competitor events, market rankings, guest maps and gaps. |
 | [Wario.Style](https://github.com/b1rdmania/motif) · [wario.style](https://wario.style) · [Product Hunt](https://www.producthunt.com/products/wario-style) | Type any song, get the 8-bit Game Boy version. |
