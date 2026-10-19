@@ -18,13 +18,14 @@ Plus some funny stuff.
 
 <a href="https://wario.style"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
 
-## Tools
+## Products
 
 | Project | What it does |
 |---|---|
 | [Groundnut](https://github.com/b1rdmania/groundnut) | Evidence checking for AI research reports. Snapshots sources, checks citations, flags unsupported claims and makes the whole thing replayable. |
 | [Dig](https://app.dig.baby) | House and techno, 1988–2008. Search it, chat to it or plug it into Claude. |
 | [Legalise](https://github.com/b1rdmania/legalise) · [legalise.dev](https://legalise.dev) | Open-source governance for AI-assisted legal work. Signed actions, human supervision and an independently verifiable audit trail. |
+| [Boss Whisperer](https://github.com/b1rdmania/boss-whisperer-skill) · [bosswhisperer.fun](https://bosswhisperer.fun) | Reverse-engineer your boss from the messages you already have. Munger meets Gottman. What they want, and how to manage up. |
 | [Record Bore](https://app.dig.baby/recordbore) | The Wine Bore format for house and techno. Strong opinions, all from the record shelves. |
 | [events-radar](https://github.com/b1rdmania/events-radar) | Field-marketing research from one line. Competitor events, market rankings, guest maps and gaps. |
 | [Wario.Style](https://github.com/b1rdmania/motif) · [wario.style](https://wario.style) · [Product Hunt](https://www.producthunt.com/products/wario-style) | Type any song, get the 8-bit Game Boy version. |
@@ -41,7 +42,6 @@ Plus some funny stuff.
 | [readme-generator](https://github.com/b1rdmania/readme-generator) | Reads a repo and writes its README in one pass. No placeholder sections. |
 | [tony-protocol](https://github.com/b1rdmania/tony-protocol) · [Product Hunt](https://www.producthunt.com/products/the-tony-protocol) | Run your sub-agents like a North Jersey crime family. Everyone gets one job, no receipt means no seat at the table, and Tony makes the call before Christopher finishes his screenplay. |
 | [hinge-profile-optimizer](https://github.com/b1rdmania/hinge-profile-optimizer) | Research-backed Hinge profile fixes. Screenshot audits, photo order, prompt rewrites, settings. My most-starred repo, which says something. |
-| [boss-whisperer](https://github.com/b1rdmania/boss-whisperer-skill) · [bosswhisperer.fun](https://bosswhisperer.fun) | Reverse-engineer your boss from the messages you already have. Munger meets Gottman. What they want, and how to manage up. |
 | [bro](https://github.com/b1rdmania/bro) | Claude lost the plot? Say bro. One line, no sorry, back to the actual question. |
 | [geocities-skill](https://github.com/b1rdmania/geocities-skill) | Builds authentically terrible 1998 GeoCities homepages. Starfields, hit counters, under-construction GIFs. |
 | [skill-auditor](https://github.com/b1rdmania/claude-skill-auditor) | Audits other Claude Code skills. Yes, it's a bit human centipede. |
