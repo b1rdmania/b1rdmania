@@ -29,7 +29,6 @@ Plus some funny stuff.
 | [events-radar](https://github.com/b1rdmania/events-radar) | Field-marketing research from one line. Competitor events, market rankings, guest maps and gaps. |
 | [Wario.Style](https://github.com/b1rdmania/motif) · [wario.style](https://wario.style) · [Product Hunt](https://www.producthunt.com/products/wario-style) | Type any song, get the 8-bit Game Boy version. |
 | [field-kit](https://github.com/b1rdmania/field-kit) | A 13-week field-marketing plan for scaling companies. Where to show up, who to meet and why. |
-| [outreach-ledger](https://github.com/b1rdmania/outreach-ledger) | Tracks who owes you a reply, spots responses and tells you when to chase. Doesn't send anything. |
 
 ## Claude Skills
 
