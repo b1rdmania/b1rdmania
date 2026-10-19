@@ -14,7 +14,7 @@ Plus some funny stuff.
 
 [**Wine Bore**](https://github.com/b1rdmania/dig) · [winebore.app](https://winebore.app) — A hyper-opinionated wine LLM.
 
-[**Wario.Style**](https://github.com/b1rdmania/motif) · [wario.style](https://wario.style) · [Product Hunt](https://www.producthunt.com/products/wario-style) — Type any song, get the 8-bit Game Boy version.
+[**Motif**](https://github.com/b1rdmania/motif) · [wario.style](https://wario.style) · [Product Hunt](https://www.producthunt.com/products/wario-style) — Type any song, get the 8-bit Game Boy version.
 
 <a href="https://wario.style"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
 
