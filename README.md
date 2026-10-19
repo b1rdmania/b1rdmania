@@ -14,6 +14,8 @@ Plus some funny stuff.
 
 [**Wine Bore**](https://github.com/b1rdmania/dig) · [winebore.app](https://winebore.app) — A hyper-opinionated wine LLM.
 
+[**Wario.Style**](https://github.com/b1rdmania/motif) · [wario.style](https://wario.style) · [Product Hunt](https://www.producthunt.com/products/wario-style) — Type any song, get the 8-bit Game Boy version.
+
 <a href="https://wario.style"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
 
 ## Products
@@ -27,7 +29,6 @@ Plus some funny stuff.
 | [Barbican Estate](https://github.com/b1rdmania/barbican-estate) · [barbican.estate](https://barbican.estate) | Lettings sites are rubbish. Reverse-engineered APIs to list every Barbican flat, with history. |
 | [Record Bore](https://app.dig.baby/recordbore) | The Wine Bore format for house and techno. Strong opinions, all from the record shelves. |
 | [events-radar](https://github.com/b1rdmania/events-radar) | Field-marketing research from one line. Competitor events, market rankings, guest maps and gaps. |
-| [Wario.Style](https://github.com/b1rdmania/motif) · [wario.style](https://wario.style) · [Product Hunt](https://www.producthunt.com/products/wario-style) | Type any song, get the 8-bit Game Boy version. |
 | [field-kit](https://github.com/b1rdmania/field-kit) | A 13-week field-marketing plan for scaling companies. Where to show up, who to meet and why. |
 
 ## Tools / Plugins
