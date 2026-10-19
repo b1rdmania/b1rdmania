@@ -40,7 +40,6 @@ Plus some funny stuff.
 | [skill-auditor](https://github.com/b1rdmania/claude-skill-auditor) | Audits other Claude Code skills. Yes, it's a bit human centipede. |
 | [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
 | [voice-kit](https://github.com/b1rdmania/voice-kit) | Builds your voice guide from your own AI history, so posts and messages sound like you. |
-| [portfolio-triage](https://github.com/b1rdmania/portfolio-triage) | Sorts every live project into This week / Watch / Park / Kill. |
 | [readme-generator](https://github.com/b1rdmania/readme-generator) | Reads a repo and writes its README in one pass. No placeholder sections. |
 | [tony-protocol](https://github.com/b1rdmania/tony-protocol) · [Product Hunt](https://www.producthunt.com/products/the-tony-protocol) | Run your sub-agents like a North Jersey crime family. Everyone gets one job, no receipt means no seat at the table, and Tony makes the call before Christopher finishes his screenplay. |
 | [hinge-profile-optimizer](https://github.com/b1rdmania/hinge-profile-optimizer) | Research-backed Hinge profile fixes. Screenshot audits, photo order, prompt rewrites, settings. My most-starred repo, which says something. |
