@@ -2,19 +2,19 @@
 
 [![Total stars](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fb1rdmania%2Fb1rdmania%2Fmain%2Fstars.json&style=flat-square&logo=github)](https://github.com/b1rdmania?tab=repositories&sort=stargazers) [![Followers](https://img.shields.io/github/followers/b1rdmania?label=followers&style=flat-square&logo=github&logoColor=white&color=555)](https://github.com/b1rdmania?tab=followers) ![Based in London](https://img.shields.io/badge/based%20in-London-555?style=flat-square) [![X](https://img.shields.io/badge/@b1rdmania-000?style=flat-square&logo=x&logoColor=white)](https://x.com/b1rdmania)
 
-Agent-first nerd, deep in the weeds of frontier tooling.
+Agent-first builder, creative and technical, deep in the weeds of frontier tooling.
 
-Built in legal AI, now market intelligence and due-diligence tooling for commercial teams.
+Built in legal AI, now market intelligence and due-diligence tooling for commercial teams. Some of it sold, some of it private.
 
 Plus some funny stuff.
 
 ## A few things I've made
 
-[**GhostClaw**](https://github.com/b1rdmania/ghostclaw) · [ghostclaw.io](https://ghostclaw.io) · [Product Hunt](https://www.producthunt.com/products/ghostclaw-claws-gone-wild) — OpenClaw had a beautiful idea buried in a bad product. Built my own. Parked now Hermes owns the space.
+[**GhostClaw**](https://github.com/b1rdmania/ghostclaw) · [ghostclaw.io](https://ghostclaw.io) · [Product Hunt](https://www.producthunt.com/products/ghostclaw-claws-gone-wild) ![stars](https://img.shields.io/github/stars/b1rdmania/ghostclaw?style=flat-square&label=%E2%98%85&color=555) — OpenClaw had a beautiful idea buried in a bad product. Built my own. Parked now Hermes owns the space.
 
 [**Wine Bore**](https://github.com/b1rdmania/dig) · [winebore.app](https://winebore.app) — A hyper-opinionated wine LLM.
 
-[**Motif**](https://github.com/b1rdmania/motif) · [wario.style](https://wario.style) · [Product Hunt](https://www.producthunt.com/products/wario-style) — Type any song, get the 8-bit Game Boy version.
+[**Motif**](https://github.com/b1rdmania/motif) · [wario.style](https://wario.style) · [Product Hunt](https://www.producthunt.com/products/wario-style) ![stars](https://img.shields.io/github/stars/b1rdmania/motif?style=flat-square&label=%E2%98%85&color=555) — Type any song, get the 8-bit Game Boy version.
 
 <a href="https://wario.style"><img src="banner.svg" alt="Wario.Style — type any song, get the 8-bit Game Boy version" width="100%"></a>
 
@@ -24,7 +24,7 @@ Plus some funny stuff.
 |---|---|
 | [Groundnut](https://github.com/b1rdmania/groundnut) | Evidence checking for AI research reports. Snapshots sources, checks citations, flags unsupported claims and makes the whole thing replayable. |
 | [Dig](https://app.dig.baby) | House and techno, 1988–2008. Search it, chat to it or plug it into Claude. |
-| [Legalise](https://github.com/b1rdmania/legalise) · [legalise.dev](https://legalise.dev) | Open-source governance for AI-assisted legal work. Signed actions, human supervision and an independently verifiable audit trail. |
+| [Legalise](https://github.com/b1rdmania/legalise) · [legalise.dev](https://legalise.dev) ![stars](https://img.shields.io/github/stars/b1rdmania/legalise?style=flat-square&label=%E2%98%85&color=555) | Open-source governance for AI-assisted legal work. Signed actions, human supervision and an independently verifiable audit trail. |
 | [Boss Whisperer](https://github.com/b1rdmania/boss-whisperer-skill) · [bosswhisperer.fun](https://bosswhisperer.fun) | Reverse-engineer your boss from the messages you already have. Munger meets Gottman. What they want, and how to manage up. |
 | [Barbican Estate](https://github.com/b1rdmania/barbican-estate) · [barbican.estate](https://barbican.estate) | Lettings sites are rubbish. Reverse-engineered APIs to list every Barbican flat, with history. |
 | [Record Bore](https://app.dig.baby/recordbore) | The Wine Bore format for house and techno. Strong opinions, all from the record shelves. |
@@ -35,14 +35,14 @@ Plus some funny stuff.
 
 | Skill | What it does |
 |---|---|
-| [plain-english](https://github.com/b1rdmania/claude-plain-english-skill) | Kills LLM slop. Orwell '46 + Gowers '48 + the modern AI tic list. |
+| [plain-english](https://github.com/b1rdmania/claude-plain-english-skill) ![stars](https://img.shields.io/github/stars/b1rdmania/claude-plain-english-skill?style=flat-square&label=%E2%98%85&color=555) | Kills LLM slop. Orwell '46 + Gowers '48 + the modern AI tic list. |
 | [skill-security-audit](https://github.com/b1rdmania/skill-security-audit) | Security-audits a skill before you run it. One Critical means unsafe. |
 | [skill-auditor](https://github.com/b1rdmania/claude-skill-auditor) | Audits other Claude Code skills. Yes, it's a bit human centipede. |
-| [premortem](https://github.com/b1rdmania/claude-premortem-skill) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
+| [premortem](https://github.com/b1rdmania/claude-premortem-skill) ![stars](https://img.shields.io/github/stars/b1rdmania/claude-premortem-skill?style=flat-square&label=%E2%98%85&color=555) | Imagine the plan failed 6 months from now. Work backward. Find every reason why. |
 | [voice-kit](https://github.com/b1rdmania/voice-kit) | Builds your voice guide from your own AI history, so posts and messages sound like you. |
 | [readme-generator](https://github.com/b1rdmania/readme-generator) | Reads a repo and writes its README in one pass. No placeholder sections. |
 | [tony-protocol](https://github.com/b1rdmania/tony-protocol) · [Product Hunt](https://www.producthunt.com/products/the-tony-protocol) | Run your sub-agents like a North Jersey crime family. Everyone gets one job, no receipt means no seat at the table, and Tony makes the call before Christopher finishes his screenplay. |
-| [hinge-profile-optimizer](https://github.com/b1rdmania/hinge-profile-optimizer) | Research-backed Hinge profile fixes. Screenshot audits, photo order, prompt rewrites, settings. My most-starred repo, which says something. |
+| [hinge-profile-optimizer](https://github.com/b1rdmania/hinge-profile-optimizer) ![stars](https://img.shields.io/github/stars/b1rdmania/hinge-profile-optimizer?style=flat-square&label=%E2%98%85&color=555) | Research-backed Hinge profile fixes. Screenshot audits, photo order, prompt rewrites, settings. |
 | [bro](https://github.com/b1rdmania/bro) | Claude lost the plot? Say bro. One line, no sorry, back to the actual question. |
 | [geocities-skill](https://github.com/b1rdmania/geocities-skill) | Builds authentically terrible 1998 GeoCities homepages. Starfields, hit counters, under-construction GIFs. |
 
